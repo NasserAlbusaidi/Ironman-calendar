@@ -1,0 +1,1631 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Intervals.icu//Cycling//EN
+NAME:Nasser Intervals.icu calendar
+X-WR-CALNAME:Nasser Intervals.icu calendar
+UID:96b17ae6fbd3b415
+CALSCALE:GREGORIAN
+URL:https://intervals.icu/athlete/i129550/activities
+REFRESH-INTERVAL:PT15M
+LAST-MODIFIED:20251117T085654Z
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:ed8b6515-ebe3-4ae3-b9d0-1ea113fef0f2
+DTSTART:20251115T030000Z
+DTEND:20251115T030300Z
+SUMMARY:Other: 3m Al Bustan Sprint Triathlon
+DESCRIPTION:
+LAST-MODIFIED:20251111T055325Z
+CATEGORIES:RACE_A
+CATEGORIES:Other
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:fbdc3405-77de-459d-86b8-83750db3f8b5
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251124
+SUMMARY:Bike: 42m Fitness Test: FTP and Threshold HR (42 mins)
+DESCRIPTION:Use the results from this test to calculate your thresholds and 
+ personalise your training.\nhttps://bit.ly/EnterBikeZones (article)\n\nWar
+ m Up:\n12 mins in Z2\,\n5 x (15 secs in Z4 + 45 secs easy in Z2).\n\nMain 
+ Set:\n20 mins maximal steady state time trial. Go as hard as you can susta
+ in for 20 minutes.\n\nWarm Down:\n5 mins in Z2.\n\nYour Functional Thresho
+ ld Power (FTP) is your average power for the 20-minute test multiplied by 
+ 219w.\n\nYour Bike Threshold Heart Rate is your average for the 20-minute 
+ test less 6 beats.\n`- - - -\nThere are TWO important steps to ensure your 
+ workouts are set at the correct level for your ability.\n\n1/ Enter your t
+ hresholds from your fitness test results:\nhttps://bit.ly/EnterYourThresho
+ lds (video)\n\n2/ Use the MyProCoach auto-calculation to update your train
+ ing zones: https://bit.ly/UpdateYour5TrainingZones (video)\n\nLearn more a
+ bout Bike Fitness Testing: https://bit.ly/BikeFitnessTest (article)\n- - - 
+ -\nImported with tp2intervals (https://github.com/freekode/tp2intervals)\n
+ \n- - - -\n- Warm up 12m 129-173w  \n\n5x\n- Hard 15s 209-242w  \n- Easy 4
+ 5s 129-173w  \n\n- Active 20m 207-253w  \n- Cool Down 5m 129-173w  \n\n///
+ ///////\ntrainingPeaksId=3410201474\n53 training load
+LAST-MODIFIED:20251117T085654Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:46029d38-b130-4031-b435-e25238857ca3
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
+SUMMARY:Swim: 50m Fitness Test: Critical Swim Speed (CSS) 1500m/1640y
+DESCRIPTION:Use the results from this test to personalise your planned swim 
+ sessions.\nhttps://bit.ly/PersonliseYourSwimWorkouts (article)\n\nWarm Up:
+ \n6 x (50 FS in Z2 + 20 sec rests)\,\n4 x (25 FS in Z4 + 25 FS in Z2 + 20 
+ sec rests).\n\nMain Set:\n1 x 400 FS maximal effort time trial\, RECORD TI
+ ME\,\n5 mins easy active recovery\,\n1 x 200 FS maximal effort time trial\
+ , RECORD TIME\,\n1 min rest.\n\nWarm Down:\n400 Choice in Z2\n\nLearn more 
+ about setting your pool length and following your swim workouts:\nhttps://
+ bit.ly/FollowingSwimSets (article)\n`- - - -\nThere are TWO important step
+ s to ensure your workouts are set at the correct level for your ability.\n
+ \n1/ Enter your thresholds from your fitness test results:\nhttps://bit.ly
+ /EnterYourThresholds (video)\n\n2/ Use the MyProCoach auto-calculation to 
+ update your training zones: https://bit.ly/UpdateYour5TrainingZones (video
+ )\n\nLearn more about CSS Swim Training: https://bit.ly/CSS_Swim_Training 
+ (blog article)\n- - - -\nImported with tp2intervals (https://github.com/fr
+ eekode/tp2intervals)\n\n- - - -\n\n6x\n- Warm Up: FS 0.05km 86-94% Pace  \
+ n- Rest 20s 0% Pace  \n\n\n4x\n- FS 0.025km 98-102% Pace  \n- FS 0.025km 8
+ 6-94% Pace  \n- Rest 20s 0% Pace  \n\n- Test Part 1 0.4km 90-120% Pace  \n
+ - Active Recovery 5m 75-85% Pace  \n- Test Part 2 0.2km 90-120% Pace  \n- 
+ Rest 1m 0% Pace  \n- Warm Down: Choice 0.4km 86-94% Pace  \n\n//////////\n
+ trainingPeaksId=3410201472\n54 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:a9560727-bc17-4974-a5e5-2a8d0edd1654
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:Run: 44m Fitness Test: Threshold Pace and HR (44 mins)
+DESCRIPTION:Use the results from this test to calculate your thresholds and 
+ personalise your training.\nhttps://bit.ly/EnterRunZones (article)\n\nWarm 
+ Up:\n5 mins in Z2 (easy/steady)\,\n4 x (30 secs accelerating from Z2 to Z4 
+ + 30 secs recoveries in Z1).\n\nMain Set:\nRun at your fastest sustainable 
+ pace for 30 minutes. Record your average pace and heart rate.\n\nWarm Down
+ :\n5 mins in Z1 to Z2 (easy).\n\nYour Threshold Run Pace is your average p
+ ace for the 30-minute test interval.\n\nYour Run Threshold Heart Rate is y
+ our average for the 30-minute test.\n`- - - -\nThere are TWO important ste
+ ps to ensure your workouts are set at the correct level for your ability.\
+ n\n1/ Enter your thresholds from your fitness test results:\nhttps://bit.l
+ y/EnterYourThresholds (video)\n\n2/ Use the MyProCoach auto-calculation to 
+ update your training zones: https://bit.ly/UpdateYour5TrainingZones (video
+ )\n\nLearn more about Run Fitness Testing: https://bit.ly/RunFitnessTest (
+ blog article)\n- - - -\nImported with tp2intervals (https://github.com/fre
+ ekode/tp2intervals)\n\n- - - -\n- Warm up 5m 80-89% Pace  \n\n4x\n- Hard 3
+ 0s 95-99% Pace  \n- Easy 30s 75-79% Pace  \n\n- Active 30m 90-110% Pace  \
+ n- Cool Down 5m 75-89% Pace  \n\n//////////\ntrainingPeaksId=3410201476\n6
+ 6 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:6a9692fa-c43e-45c7-b1af-b7847af39852
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Swim: 46m Pool Swim: Threshold Efforts
+DESCRIPTION:These workouts involve a main set of efforts at threshold pace. 
+ They will boost your pace and increase your ability to hold race pace for 
+ longer.\nWarm Up:\n1 x (50 Pull in Z2 + 50 Pull in Z2 + 15 secs rest)\,\n1 
+ x (50 FS in Z2 + 50 FS in Z3 + 20 secs rest)\,\n1 x (50 Pull in Z2 + 50 Pu
+ ll in Z4 + 20 secs rest).\n\nMain Set:\n1 x (400 FS in Z4 + 40 secs rest)\
+ ,\n1 x (300 Pull in Z4 + 40 secs rest)\,\n1 x (200 FS in Z4 + 40 secs rest
+ )\,\n1 x (100 Pull in Z4 + 40 secs rest).\n\nWarm Down:\n1 x (100 Pull in 
+ Z2 + 100 FS in Z2)\,\n1 x (100 Choice in Z2).\n`- - - -\nMyProCoach Swim D
+ rills:\nFor swim sets with drills\, refer to this article to choose the mo
+ st relevant ones for improving your technique:\nhttps://bit.ly/Swim_Drills
+ _Guide\n\nHow to Get the Most Out of Your Swim Workouts:\nhttps://bit.ly/S
+ wim_Workout_Guide\n\nCSS and How to Set Your Swim Training Zones:\nhttps:/
+ /bit.ly/Set_Your_Swim_Zones\n\nNOTE: For all swims\, use the distances in 
+ the Workout Description section. Toggle yards/meters in Workout Details.\n
+ - - - -\nImported with tp2intervals (https://github.com/freekode/tp2interv
+ als)\n\n- - - -\n\n1x\n- Warm Up: Pull 0.05km 87-94% Pace  \n- Pull 0.05km 
+ 87-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n-  FS 0.05km 87-94% Pace  \n- 
+ FS 0.05km 95-97% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n-  Pull 0.05km 87-9
+ 4% Pace  \n- Pull 0.05km 98-103% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n- M
+ ain Set: FS 0.4km 98-103% Pace  \n- Rest 40s 0% Pace  \n\n\n1x\n- Pull 0.3
+ km 98-103% Pace  \n- Rest 40s 0% Pace  \n\n\n1x\n- FS 0.2km 98-103% Pace  
+ \n- Rest 40s 0% Pace  \n\n\n1x\n- Pull 0.1km 98-103% Pace  \n- Rest 40s 0% 
+ Pace  \n\n\n1x\n- Warm Down: Pull 0.1km 87-94% Pace  \n- FS 0.1km 87-94% P
+ ace  \n- Choice 0.1km 87-94% Pace  \n\n\n//////////\ntrainingPeaksId=34102
+ 01470\n56 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:9ca331cb-0245-449a-8aa3-2e5b3bb0df0f
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Bike: 2h Endurance Ride
+DESCRIPTION:Ride at an easy/steady intensity\, mainly in Z2 today. You shou
+ ld be able to chat at this intensity. This ride will improve your efficien
+ cy for using fat for fuel and increase your ability to transport oxygen to 
+ your working muscles.\n`- - - -\nPhil’s Training Tip:\n\nWhen you're exerc
+ ising for longer than about 1 hour 20 you need to consume carbohydrate dur
+ ing your workouts to stop your energy levels from dropping too much. Aim f
+ or the equivalent of an energy gel every 30 minutes for training. It doesn
+ 't even have to be an "energy" product. You could have a cereal bar\, a ba
+ nana\, a sugary drink or whatever you like. It just needs to consist mainl
+ y of carbohydrate. And water is fine for hydration.\n- - - -\nImported wit
+ h tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Ac
+ tive 2h 129-173w  \n\n//////////\ntrainingPeaksId=3410201425\n85 training 
+ load
+LAST-MODIFIED:20251102T100222Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:64533b21-2872-4ad1-a994-1f747c038872
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Run: 15m Run Off The Bike
+DESCRIPTION:Get off your bike and run steady in Z2.\n`- - - -\n\n- - - -\nI
+ mported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- 
+ - - -\n- Active 15m 80-89% Pace  \n\n//////////\ntrainingPeaksId=341020142
+ 6\n18 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:cc3a3428-4cdb-421f-9e32-3bb42e741303
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Run: 1h Aerobic Endurance Run
+DESCRIPTION:A steady run\, mainly in Z1-Z2. You should be able to chat at t
+ his intensity. This is your long run for the week and it will progress in 
+ duration. They will gradually build your endurance.\n`- - - -\nPhil's Trai
+ ning Tip:\n\nYour pace on these runs will depend on several factors\, such 
+ as the terrain\, elevation and conditions. Try not to get too worried abou
+ t sticking to a set pace. Heart Rate or Rate of Perceived Exertion can wor
+ k well instead\, helping you to listen to your body.\n- - - -\nImported wi
+ th tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- A
+ ctive 1h 75-85% Pace  \n\n//////////\ntrainingPeaksId=3410201383\n64 train
+ ing load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:a4cb411f-2427-4568-9873-c94e091c6ffb
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:Swim: 48m Pool Swim: Aerobic Endurance
+DESCRIPTION:These sessions will be done at lower intensities\, and will pro
+ gress in duration. The goal is to build your endurance ensuring you can ea
+ sily swim the distance on race day and still have lots of energy left for 
+ the ride and run.\n\nWarm Up:\n1 x (100 FS Breathe every 3 in Z2 + 20 secs 
+ rest)\,\n1 x (100 Pull in Z2 + 100 Drill in Z2 + 20 secs rest)\,\n1 x (100 
+ FS Breathe every 5 in Z2 + 20 secs rest).\n\nMain Set:\n2 x (200 FS in Z2 
+ + 50 FS in Z4 + 20 sec rests)\,\n2 x (100 Pull in Z2 + 100 FS in Z3 + 20 s
+ ec rests)\,\n2 x (50 FS in Z2 + 50 FS in Z4 + 20 sec rests)\,\n\nWarm Down
+ :\n1 x (100 Choice in Z2).\n`- - - -\nMyProCoach Swim Drills:\nFor swim se
+ ts with drills\, refer to this article to choose the most relevant ones fo
+ r improving your technique:\nhttps://bit.ly/Swim_Drills_Guide\n\nHow to Ge
+ t the Most Out of Your Swim Workouts:\nhttps://bit.ly/Swim_Workout_Guide\n
+ \nCSS and How to Set Your Swim Training Zones:\nhttps://bit.ly/Set_Your_Sw
+ im_Zones\n\nNOTE: For all swims\, use the distances in the Workout Descrip
+ tion section. Toggle yards/meters in Workout Details.\n- - - -\nImported w
+ ith tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n\n
+ 1x\n- Warm Up: FS Breathe every 3 0.1km 86-94% Pace  \n- Rest 20s 0% Pace  
+ \n\n\n1x\n- Pull 0.1km 86-94% Pace  \n- Drill* 0.1km 86-94% Pace  \n- Rest 
+ 20s 0% Pace  \n\n\n1x\n- FS Breathe every 5 0.1km 86-94% Pace  \n- Rest 20
+ s 0% Pace  \n\n\n2x\n- Main Set: FS 0.2km 86-94% Pace  \n- FS 0.05km 98-10
+ 2% Pace  \n- Rest 20s 0% Pace  \n\n\n2x\n- Pull 0.1km 86-94% Pace  \n- FS 
+ 0.1km 92-98% Pace  \n- Rest 20s 0% Pace  \n\n\n2x\n- FS 0.05km 86-94% Pace  
+ \n- FS 0.05km 98-102% Pace  \n- Rest 20s 0% Pace  \n\n- Warm Down: Choice 
+ 0.1km 86-94% Pace  \n\n//////////\ntrainingPeaksId=3410201427\n52 training 
+ load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:b40f5de5-987e-4db3-9c81-e2bad298a12d
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Bike: 59m IRONMAN 70.3 Power Ups
+DESCRIPTION:Warm Up:\n5 mins in Z1-2\,\n5 x (15 secs in Z3\, 15 secs Z1-2\, 
+ 15 secs in Z4\, 15 secs in Z1-2)\n5 mins in Z2.\n\nMain Set:\n1 x (7 mins 
+ in Z3 + 4 mins in Z4)\,\n4 mins recovery in Z1-2\,\n1 x (6 mins in Z3 + 3 
+ mins in Z4)\,\n3 mins recovery in Z1-2\,\n1 x (5 mins in Z3 + 2 mins in Z4
+ )\,\n2 mins recovery in Z1-2.\n\nWarm down.\n8 mins in Z1-2.\n- - - -\nImp
+ orted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 1 5m 115-173w  \n\n1x\n- Hard 15s 175-207w  \n- Active 15s 
+ 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 
+ 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 1
+ 5s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- H
+ ard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  
+ \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \
+ n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-24
+ 2w  \n- Active 15s 115-173w  \n\n- Warm up 2 5m 129-173w  \n\n1x\n- Hard 7
+ m 175-207w  \n- Harder 4m 209-242w  \n\n- Recovery 4m 115-173w  \n\n1x\n- 
+ Hard 6m 175-207w  \n- Harder 3m 209-242w  \n\n- Recovery 3m 115-173w  \n\n
+ 1x\n- Hard 5m 175-207w  \n- Harder 2m 209-242w  \n\n- Recovery 2m 115-173w  
+ \n- Cool Down 8m 115-173w  \n\n//////////\ntrainingPeaksId=3410201455\n61 
+ training load
+LAST-MODIFIED:20251102T100222Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:927b07c8-9a0f-4a8d-b0e5-bcdbc1eeed0d
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251203
+SUMMARY:Run: 56m IRONMAN 70.3 Sustaining Pace
+DESCRIPTION:Warm Up:.\n7 mins in Z1-2\,\n3 mins in Z3\,\n5 mins in Z2.\n\nM
+ ain Set:\n4 x (7 mins in low Z3 + 2 min recoveries in Z1-2).\n\nWarm Down:
+ \n5 mins in Z1-2.\n- - - -\nImported with tp2intervals (https://github.com
+ /freekode/tp2intervals)\n\n- - - -\n- Warm up 7m 80-89% Pace  \n- Warm up 
+ 3m 90-94% Pace  \n- Warm up 5m 85-89% Pace  \n\n4x\n- Hard 7m 90-92% Pace  
+ \n- Easy 2m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////////\nt
+ rainingPeaksId=3410201454\n73 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:e534a62e-ee82-490a-ac13-bb63647fd932
+DTSTART;VALUE=DATE:20251203
+DTEND;VALUE=DATE:20251204
+SUMMARY:Swim: 47m Pool Swim: Threshold Efforts
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 50 FS in Z4 + 20 secs rest)\,\n1 
+ x (50 FS in Z2 + 100 FS in Z4 + 30 secs rest)\,\n1 x (100 FS in Z4 + 30 se
+ cs rest).\n\nMain Set: Repeat 2 sets of 500:\n1 x (100 FS in Z2 + 15 secs 
+ rest)\,\n1 x (100 FS in Z3 + 15 secs rest)\,\n1 x (100 FS in Z4 + 15 secs 
+ rest)\,\n1 x (100 FS in Z5 + 15 secs rest)\,\n1 x (100 Pull in Z2 + 15 sec
+ s rest).\n\nWarm Down:\n1 x (50 Back in Z2 + 50 Breast in Z2 + 15 secs res
+ t)\,\n1 x (100 Choice in Z2).\n`- - - -\nMyProCoach Swim Drills:\nFor swim 
+ sets with drills\, refer to this article to choose the most relevant ones 
+ for improving your technique:\nhttps://bit.ly/Swim_Drills_Guide\n\nHow to 
+ Get the Most Out of Your Swim Workouts:\nhttps://bit.ly/Swim_Workout_Guide
+ \n\nCSS and How to Set Your Swim Training Zones:\nhttps://bit.ly/Set_Your_
+ Swim_Zones\n\nNOTE: For all swims\, use the distances in the Workout Descr
+ iption section. Toggle yards/meters in Workout Details.\n- - - -\nImported 
+ with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n\
+ n1x\n- Warm Up: FS 0.1km 86-94% Pace  \n- FS 0.05km 98-102% Pace  \n- Rest 
+ 20s 0% Pace  \n\n\n1x\n- FS 0.05km 86-94% Pace  \n- FS 0.1km 98-102% Pace  
+ \n- Rest 30s 0% Pace  \n\n\n1x\n- FS 0.1km 98-103% Pace  \n- Rest 30s 0% P
+ ace  \n\n\n2x\n- Main Set: FS 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n- 
+ FS 0.1km 94-98% Pace  \n- Rest 15s 0% Pace  \n- FS 0.1km 98-103% Pace  \n- 
+ Rest 15s 0% Pace  \n- FS 0.1km 104-111% Pace  \n- Rest 15s 0% Pace  \n- Pu
+ ll 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- Warm Down: Back 0.
+ 05km 86-94% Pace  \n- Breast 0.04km 86-94% Pace  \n- Rest 15s 0% Pace  \n\
+ n- Choice 0.1km 86-94% Pace  \n\n//////////\ntrainingPeaksId=3410201428\n5
+ 3 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:54060e5a-1a03-49c2-a795-49138c9af98d
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Bike: 2h20m Endurance Ride With Sub Threshold Sections
+DESCRIPTION:These longer bike sessions are mostly done at an easy/steady Z2 
+ effort\, but there is a main set of long efforts at just below your thresh
+ old pace. These will help increase your threshold power without leaving yo
+ u feeling excessively tired afterwards.\n\nWarm Up:\n55 mins in Z2.\n\nMai
+ n Set:\n2 x (10 mins in upper Z3 to low Z4 + 3 min recoveries in Z2).\n\nW
+ arm Down:\n59 mins in Z2.\n`- - - -\nPhil’s Training Tip:\n\nRiding indoor
+ s is a little harder than riding outside\, because there is no momentum\, 
+ freewheeling or stops. For this reason\, when you are on the trainer you c
+ an reduce the long weekend sessions by 10-15% and you'll get close to the 
+ same benefit as riding the full duration outside.\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Acti
+ ve 55m 129-173w  \n\n2x\n- Hard 10m 193-223w  \n- Easy 3m 129-173w  \n\n- 
+ Active 59m 129-173w  \n\n//////////\ntrainingPeaksId=3410201429\n117 train
+ ing load
+LAST-MODIFIED:20251102T100222Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:2cbe7d44-4013-4129-9bb3-003c6f0d71a7
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Run: 20m Run Off The Bike
+DESCRIPTION:Get off your bike and run steady in Z2.\n`- - - -\nPhil’s Train
+ ing Tip:\n\nConsistency is the golden ticket\, rather than any single work
+ out. Think in weeks and months\, rather than day-to-day. Don't get too foc
+ used on good days or bad days or over-analysing your short term data. Thin
+ k of each completed workout as another jelly bean in the jar. When the jar 
+ is full\, you're in peak race shape.\n- - - -\nImported with tp2intervals 
+ (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 20m 80-89% 
+ Pace  \n\n//////////\ntrainingPeaksId=3410201430\n24 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:2ae75b09-e197-45c8-88b6-7b96a593c4cb
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:Run: 1h10m Aerobic Endurance Run
+DESCRIPTION:A nice steady run\, mainly in Z1-Z2.\n`- - - -\nPhil’s Training 
+ Tip:\n\nDon't panic if you cannot complete 100% of your workouts. Do your 
+ best to stick to your plan\, while accepting that occasionally life gets i
+ n the way. Following a plan will help you train more effectively than not 
+ having a plan at all. Do your best with whatever time and resources you ha
+ ve\, and don't give up. Don't worry about one bad week\, it’s what you do 
+ consistently over a period of months that counts.\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Acti
+ ve 1h10m 75-85% Pace  \n\n//////////\ntrainingPeaksId=3410201407\n75 train
+ ing load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:0366e971-bc00-4f61-bb06-afed6d4e065a
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:Swim: 56m Pool Swim: Aerobic Endurance
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 15 secs rest)\,\n2 x (100 Drill i
+ n Z2 + 15 sec rests)\,\n1 x (100 Pull in Z2 + 15 secs rest).\n\nMain Set:\
+ n1 x (300 Pull in Z2 + 25 secs rest)\,\n4 x (100 FS in Z3 + 25 sec rests)\
+ ,\n3 x (100 Pull in Z2 + 20 sec rests)\,\n2 x (100 FS in Z3 + 25 sec rests
+ ).\n\nWarm Down:\n2 x (50 Choice in Z2 + 50 FS in Z2).\n`- - - -\nMyProCoa
+ ch Swim Drills:\nFor swim sets with drills\, refer to this article to choo
+ se the most relevant ones for improving your technique:\nhttps://bit.ly/Sw
+ im_Drills_Guide\n\nHow to Get the Most Out of Your Swim Workouts:\nhttps:/
+ /bit.ly/Swim_Workout_Guide\n\nCSS and How to Set Your Swim Training Zones:
+ \nhttps://bit.ly/Set_Your_Swim_Zones\n\nNOTE: For all swims\, use the dist
+ ances in the Workout Description section. Toggle yards/meters in Workout D
+ etails.\n- - - -\nImported with tp2intervals (https://github.com/freekode/
+ tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1km 86-94% Pace  \n- Rest 
+ 15s 0% Pace  \n\n\n2x\n- Drill* 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \
+ n\n\n1x\n- Pull 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- Main 
+ Set: Pull 0.3km 86-94% Pace  \n- Rest 25s 0% Pace  \n\n\n4x\n- FS 0.1km 92
+ -98% Pace  \n- Rest 25s 0% Pace  \n\n\n3x\n- Pull 0.1km 86-94% Pace  \n- R
+ est 20s 0% Pace  \n\n\n2x\n- FS 0.1km 92-98% Pace  \n- Rest 25s 0% Pace  \
+ n\n\n2x\n- Warm Down: Choice 0.05km 86-94% Pace  \n- FS 0.05km 86-94% Pace  
+ \n\n\n//////////\ntrainingPeaksId=3410201431\n55 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:2951fadc-6015-434a-b40c-542a95dca429
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:Bike: 1h IRONMAN 70.3 Power Ups
+DESCRIPTION:Warm Up:\n5 mins in Z1-2\,\n5 x (15 secs in Z3\, 15 secs Z1-2\, 
+ 15 secs in Z4\, 15 secs in Z1-2)\n5 mins in Z2.\n\nMain Set:\n1 x (8 mins 
+ in Z3 + 4 mins in Z4)\,\n4 mins recovery in Z1-2\,\n1 x (6 mins in Z3 + 3 
+ mins in Z4)\,\n3 mins recovery in Z1-2\,\n1 x (5 mins in Z3 + 2 mins in Z4
+ )\,\n2 mins recovery in Z1-2.\n\nWarm down.\n8 mins in Z1-2.\n- - - -\nImp
+ orted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 1 5m 115-173w  \n\n1x\n- Hard 15s 175-207w  \n- Active 15s 
+ 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 
+ 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 1
+ 5s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- H
+ ard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  
+ \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \
+ n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-24
+ 2w  \n- Active 15s 115-173w  \n\n- Warm up 2 5m 129-173w  \n\n1x\n- Hard 8
+ m 175-207w  \n- Harder 4m 209-242w  \n\n- Recovery 4m 115-173w  \n\n1x\n- 
+ Hard 6m 175-207w  \n- Harder 3m 209-242w  \n\n- Recovery 3m 115-173w  \n\n
+ 1x\n- Hard 5m 175-207w  \n- Harder 2m 209-242w  \n\n- Recovery 2m 115-173w  
+ \n- Cool Down 8m 115-173w  \n\n//////////\ntrainingPeaksId=3410201457\n62 
+ training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:ebe928a9-1b39-491a-a344-3dacf2ff37e1
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+SUMMARY:Run: 58m IRONMAN 70.3 Sustaining Pace
+DESCRIPTION:Warm Up:.\n5 mins in Z1-2\,\n3 mins in Z3\,\n5 mins in Z2.\n\nM
+ ain Set:\n4 x (8 mins in low Z3 + 2 min recoveries in Z1-2).\n\nWarm Down:
+ \n5 mins in Z1-2.\n- - - -\nImported with tp2intervals (https://github.com
+ /freekode/tp2intervals)\n\n- - - -\n- Warm up 5m 80-89% Pace  \n- Warm up 
+ 3m 90-94% Pace  \n- Warm up 5m 85-89% Pace  \n\n4x\n- Hard 8m 90-92% Pace  
+ \n- Easy 2m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////////\nt
+ rainingPeaksId=3410201456\n76 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:641e986e-ae60-4c1b-8773-42e4db2f48a5
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:Swim: 53m Pool Swim: Threshold Efforts
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 100 Pull in Z2 + 15 secs\nrest)\,
+ \n1 x (50 FS in Z2 + 50 FS in Z3 + 20 secs rest)\,\n1 x (50 Pull in Z2 + 5
+ 0 Pull in Z4 + 20 secs rest).\n\nMain Set:\n1 x (400 FS in Z4 + 40 secs re
+ st)\,\n1 x (300 Pull in Z4 + 40 secs rest)\,\n1 x (200 FS in Z4 + 40 secs 
+ rest)\,\n2 x (100 Pull in Z4 + 40 sec rests).\n\nWarm Down:\n1 x (100 Pull 
+ in Z2 + 100 FS in Z2)\,\n1 x (100 Choice in Z2).\n`- - - -\nMyProCoach Swi
+ m Drills:\nFor swim sets with drills\, refer to this article to choose the 
+ most relevant ones for improving your technique:\nhttps://bit.ly/Swim_Dril
+ ls_Guide\n\nHow to Get the Most Out of Your Swim Workouts:\nhttps://bit.ly
+ /Swim_Workout_Guide\n\nCSS and How to Set Your Swim Training Zones:\nhttps
+ ://bit.ly/Set_Your_Swim_Zones\n\nNOTE: For all swims\, use the distances i
+ n the Workout Description section. Toggle yards/meters in Workout Details.
+ \n- - - -\nImported with tp2intervals (https://github.com/freekode/tp2inte
+ rvals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1km 86-94% Pace  \n- Pull 0.1km 8
+ 6-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n-  FS 0.05km 86-94% Pace  \n- 
+ FS 0.05km 92-98% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n-  Pull 0.05km 86-9
+ 4% Pace  \n- Pull 0.05km 98-102% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n- M
+ ain Set: FS 0.4km 98-102% Pace  \n- Rest 40s 0% Pace  \n\n\n1x\n- Pull 0.3
+ km 98-102% Pace  \n- Rest 40s 0% Pace  \n\n\n1x\n- FS 0.2km 98-102% Pace  
+ \n- Rest 40s 0% Pace  \n\n\n2x\n- Pull 0.1km 98-102% Pace  \n- Rest 40s 0% 
+ Pace  \n\n\n1x\n- Warm Down: Pull 0.1km 86-94% Pace  \n- FS 0.1km 86-94% P
+ ace  \n- Choice 0.1km 86-94% Pace  \n\n\n//////////\ntrainingPeaksId=34102
+ 01432\n62 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:906d4392-0764-4c54-9760-fff44be95a66
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Bike: 2h40m Endurance Ride With Sub Threshold Sections
+DESCRIPTION:Warm Up:\n1 hr in Z2.\n\nMain Set:\n2 x (15 mins in upper Z3 to 
+ low Z4 + 3 min recoveries in Z2).\n\nWarm Down:\n64 mins in Z2.\n`- - - -\
+ nPhil’s Training Tip:\nYour "cadence" is the count of how many pedal revol
+ utions you do per minute. Whereas\, "power output" is a combination of you
+ r cadence AND how hard you pedal. Therefore\, to increase your power outpu
+ t you would need to pedal faster in the same gear. Or pedal at the same ca
+ dence\, but in a bigger gear.\n\nWhat's the Best Cadence?\nResearch is unc
+ lear on the single "best cadence" to ride at. One study suggests that athl
+ etes subconsciously self-select the cadence that's most efficient at a giv
+ en time. The best cadence for your needs can also depend on the type of cy
+ clist you are\, your aerobic fitness\, physique\, leg strength and exercis
+ e intensity. For example\, your cadence might naturally be higher in a rac
+ e\, and lower during an easy training ride.\n\nWhat Cadence to Target?\n85
+ -90 rpm is ideal for many riders\, but don't force yourself to ride at tha
+ t cadence if it doesn't feel right. Try not to get too worried about your 
+ cadence - it may naturally change over time anyway. You're better off focu
+ sing on increasing your power output and reducing your aerodynamic drag.\n
+ - - - -\nImported with tp2intervals (https://github.com/freekode/tp2interv
+ als)\n\n- - - -\n- Active 1h 129-173w  \n\n2x\n- Hard 15m 193-223w  \n- Ea
+ sy 3m 129-173w  \n\n- Active 1h4m 129-173w  \n\n//////////\ntrainingPeaksI
+ d=3410201433\n139 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:911959c5-9e67-4faf-a2be-322995061bb8
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Run: 25m Run Off The Bike
+DESCRIPTION:Get off your bike and run steady in Z2.\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Acti
+ ve 25m 80-89% Pace  \n\n//////////\ntrainingPeaksId=3410201434\n30 trainin
+ g load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:1b68672a-6a44-470d-8507-13ca049a01ae
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:Run: 1h20m Aerobic Endurance Run
+DESCRIPTION:A nice steady run\, mainly in Z1-Z2.\n`- - - -\nPhil’s Training 
+ Tip:\n\nDon't feel you need to do all your workouts alone. If you enjoy do
+ ing club or group workouts\, you can still incorporate these into your tra
+ ining plan. In fact\, it's a good idea. Just make sure that your group wor
+ kouts replace similar types of workouts from your training plan. For examp
+ le\, you might swap solo speed work for a group/coached session. Or an aer
+ obic endurance workout can be done with your club/team or workout buddies.
+ \n- - - -\nImported with tp2intervals (https://github.com/freekode/tp2inte
+ rvals)\n\n- - - -\n- Active 1h20m 75-85% Pace  \n\n//////////\ntrainingPea
+ ksId=3410201420\n85 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:45ca27fe-9303-4e04-bf2f-ea447ac6c2e8
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+SUMMARY:Swim: 54m Pool Swim: Recovery
+DESCRIPTION:These sessions are carried out at lower intensities providing t
+ he opportunity for recovery and to focus on technique.\n\nWarm Up:\n1 x (1
+ 00 FS in Z2 + 100 Drill in Z2 + 15 secs rest)\,\n2 x (50 Breast in Z2 + 50 
+ Back in Z2 + 15 sec rests).\n\nMain Set:\n1 x (100 FS in Z2 + 100 Pull in 
+ Z2 + 20 secs rest)\,\n1 x (200 FS in Z2 + 200 Pull in Z2 + 30 secs rest)\,
+ \n1 x (200 FS in Z2 + 200 Pull in Z2 + 30 secs rest)\,\n1 x (100 FS in Z2 
+ + 100 Pull in Z2 + 20 secs rest).\n\nWarm Down:\n1 x (200 Choice in Z2).\n
+ `- - - -\nMyProCoach Swim Drills:\nFor swim sets with drills\, refer to th
+ is article to choose the most relevant ones for improving your technique:\
+ nhttps://bit.ly/Swim_Drills_Guide\n\nHow to Get the Most Out of Your Swim 
+ Workouts:\nhttps://bit.ly/Swim_Workout_Guide\n\nCSS and How to Set Your Sw
+ im Training Zones:\nhttps://bit.ly/Set_Your_Swim_Zones\n\nNOTE: For all sw
+ ims\, use the distances in the Workout Description section. Toggle yards/m
+ eters in Workout Details.\n- - - -\nImported with tp2intervals (https://gi
+ thub.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1km 86-9
+ 4% Pace  \n- Drill* 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\n2x\n- B
+ reast 0.05km 86-94% Pace  \n- Back 0.05km 86-94% Pace  \n- Rest 15s 0% Pac
+ e  \n\n\n1x\n- Main Set: FS 0.1km 86-94% Pace  \n- Pull 0.1km 86-94% Pace  
+ \n- Rest 20s 0% Pace  \n\n\n1x\n- FS 0.2km 86-94% Pace  \n- Pull 0.2km 86-
+ 94% Pace  \n- Rest 30s 0% Pace  \n\n\n1x\n- FS 0.2km 86-94% Pace  \n- Pull 
+ 0.2km 86-94% Pace  \n- Rest 30s 0% Pace  \n\n\n1x\n- FS 0.1km 86-94% Pace  
+ \n- Pull 0.1km 86-94% Pace  \n- Rest 20s 0% Pace  \n\n- Warm Down: Choice 
+ 0.2km 86-94% Pace  \n\n//////////\ntrainingPeaksId=3410201435\n58 training 
+ load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:6744643d-9e8c-4778-bf3f-d853d5b0823f
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:Bike: 43m Speed Workout Bike
+DESCRIPTION:Warm Up:\n15 mins in Z2.\n\nMain Set:\n9 mins in low Z4 + 60 se
+ cs recovery in Z1\,\n7 mins in low Z4 + 60 secs recovery in Z1\,\n5 mins i
+ n low Z4.\n\nWarm Down:\n5 mins in Z2.\n`- - - -\n\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Warm 
+ up 15m 129-173w  \n\n1x\n- Hard 9m 209-223w  \n- Easy 1m 104-127w  \n\n\n1
+ x\n- Hard 7m 209-223w  \n- Easy 1m 104-127w  \n\n- Hard 5m 209-223w  \n- C
+ ool Down 5m 129-173w  \n\n//////////\ntrainingPeaksId=3410201422\n49 train
+ ing load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:7f60de67-fe56-48e9-8aa6-0350182b5469
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:Run: 40m Speed Workout Run
+DESCRIPTION:Warm Up:\n15 mins in Z2.\n\nMain Set:\n10 x (60 secs in Zone 4 
+ + 60 secs in Z2).\n\nWarm Down:\n5 mins in Z2.\n`- - - -\nPhil’s Training 
+ Tip:\n\nBe patient\, physiological improvements only happen in a "drip dri
+ p" way like coffee pouring through a filter. There are no shortcuts.\n- - 
+ - -\nImported with tp2intervals (https://github.com/freekode/tp2intervals)
+ \n\n- - - -\n- Warm up 15m 80-89% Pace  \n\n10x\n- Hard 1m 95-99% Pace  \n
+ - Easy 1m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////////\ntra
+ iningPeaksId=3410201423\n51 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:7dd711c1-7947-4d6e-bff2-6be023cc404e
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:Swim: 54m Pool Swim: Endurance/Technique
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 Breathe every 3 + 20 secs rest)\,\n
+ 1 x (200 Pull in Z2 Breathe every 5 + 20 secs rest)\,\n1 x (100 FS in Z2 B
+ reathe every 3 + 20 secs rest).\n\nMain Set:\n4 x (100 Drill in Z2 + 100 F
+ S in Z3 + 20 sec rests).\n\nWarm Down:\n2 x (50 Back in Z2 + 50 Breast in 
+ Z2 + 15 sec rests)\,\n2 x (50 Pull in Z2 + 50 Drill in Z2 + 15 sec rests)\
+ ,\n1 x (200 FS in Z2).\n`- - - -\nMyProCoach Swim Drills:\nFor swim sets w
+ ith drills\, refer to this article to choose the most relevant ones for im
+ proving your technique:\nhttps://bit.ly/Swim_Drills_Guide\n\nHow to Get th
+ e Most Out of Your Swim Workouts:\nhttps://bit.ly/Swim_Workout_Guide\n\nCS
+ S and How to Set Your Swim Training Zones:\nhttps://bit.ly/Set_Your_Swim_Z
+ ones\n\nNOTE: For all swims\, use the distances in the Workout Description 
+ section. Toggle yards/meters in Workout Details.\n- - - -\nImported with t
+ p2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- 
+ Warm Up: FS\, Breathe every 3 strokes 0.1km 86-94% Pace  \n- Rest 20s 0% P
+ ace  \n\n\n1x\n- Pull\, Breathe every 5 strokes 0.2km 86-94% Pace  \n- Res
+ t 20s 0% Pace  \n\n\n1x\n- FS\, Breathe every 3 strokes 0.1km 86-94% Pace  
+ \n- Rest 20s 0% Pace  \n\n\n4x\n- Main Set: Drill* 0.1km 86-94% Pace  \n- 
+ FS 0.1km 92-98% Pace  \n- Rest 20s 0% Pace  \n\n\n2x\n- Warm Down: Back 0.
+ 05km 86-94% Pace  \n- Breast 0.05km 86-94% Pace  \n- Rest 15s 0% Pace  \n\
+ n\n2x\n- Pull 0.05km 86-94% Pace  \n- Drill 0.05km 86-94% Pace  \n- Rest 1
+ 5s 0% Pace  \n\n- FS 0.2km 86-94% Pace  \n\n//////////\ntrainingPeaksId=34
+ 10201436\n57 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:e403ed93-314d-40e3-910e-0552bedf8809
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Bike: 1h Aerobic Endurance Ride
+DESCRIPTION:Easy/steady Z2 ride today. Save your legs for next week.\n- - - 
+ -\nImported with tp2intervals (https://github.com/freekode/tp2intervals)\n
+ \n- - - -\n- Active 1h 129-173w  \n\n//////////\ntrainingPeaksId=341020141
+ 8\n43 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:e505ae60-80cb-41f2-8d7e-5d5e13da7833
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Run: 30m Aerobic Endurance Run
+DESCRIPTION:Nice steady run in Z1-Z2.\n- - - -\nImported with tp2intervals 
+ (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 30m 75-85% 
+ Pace  \n\n//////////\ntrainingPeaksId=3410201419\n32 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:7cd8f438-ca5f-4cbe-b890-7e023ce7e3cf
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:Bike: 1h IRONMAN 70.3 Power Ups
+DESCRIPTION:Warm Up:\n5 mins in Z1-2\,\n5 x (15 secs in Z3\, 15 secs Z1-2\, 
+ 15 secs in Z4\, 15 secs in Z1-2)\n5 mins in Z2.\n\nMain Set:\n1 x (9 mins 
+ in Z3 + 4 mins in Z4)\,\n4 mins recovery in Z1-2\,\n1 x (7 mins in Z3 + 3 
+ mins in Z4)\,\n3 mins recovery in Z1-2\,\n1 x (5 mins in Z3 + 3 mins in Z4
+ )\,\n2 mins recovery in Z1-2.\n\nWarm down.\n5 mins in Z1-2.\n- - - -\nImp
+ orted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 1 5m 115-173w  \n\n1x\n- Hard 15s 175-207w  \n- Active 15s 
+ 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 
+ 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 1
+ 5s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- H
+ ard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  
+ \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \
+ n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-24
+ 2w  \n- Active 15s 115-173w  \n\n- Warm up 2 5m 129-173w  \n\n1x\n- Hard 9
+ m 175-207w  \n- Harder 4m 209-242w  \n\n- Recovery 4m 115-173w  \n\n1x\n- 
+ Hard 7m 175-207w  \n- Harder 3m 209-242w  \n\n- Recovery 3m 115-173w  \n\n
+ 1x\n- Hard 5m 175-207w  \n- Harder 3m 209-242w  \n\n- Recovery 2m 115-173w  
+ \n- Cool Down 5m 115-173w  \n\n//////////\ntrainingPeaksId=3410201459\n64 
+ training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:cc634ed3-fba8-4912-8bae-2c204d186e20
+DTSTART;VALUE=DATE:20251223
+DTEND;VALUE=DATE:20251224
+SUMMARY:Run: 1h IRONMAN 70.3 Sustaining Pace
+DESCRIPTION:Warm Up:.\n4 mins in Z1-2\,\n2 mins in Z3\,\n4 mins in Z2.\n\nM
+ ain Set:\n5 x (7 mins in low Z3 + 2 min recoveries in Z1-2).\n\nWarm Down:
+ \n5 mins in Z1-2.\n- - - -\nImported with tp2intervals (https://github.com
+ /freekode/tp2intervals)\n\n- - - -\n- Warm up 4m 80-89% Pace  \n- Warm up 
+ 2m 90-94% Pace  \n- Warm up 4m 85-89% Pace  \n\n5x\n- Hard 7m 90-92% Pace  
+ \n- Easy 2m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////////\nt
+ rainingPeaksId=3410201458\n79 training load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:6f303e59-745a-4bb2-87d5-26804bba6c02
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:Swim: 1h Pool Swim: Speed Endurance
+DESCRIPTION:These swims involve effort at or above race pace\, with regular 
+ recoveries. They will build your sustainable speed for race day.\n\nWarm U
+ p:\n1 x (100 FS in Z2 + 100 Drill in Z2 + 20 secs rest)\,\n2 x (50 Pull in 
+ Z2 + 50 Pull in Z4 + 20 sec rests).\n\nMain Set:\n3 x (200 FS in Z3 + 20 s
+ ec rests)\,\n5 x (100 FS in Z4 + 30 sec rests)\,\n6 x (50 FS in Z5 + 20 se
+ c rests).\n\nWarm Down:\n1 x (50 FS in Z2 + 50 Back in Z2 + 15 secs rest)\
+ ,\n1 x (100 Choice in Z2).\n`- - - -\nMyProCoach Swim Drills:\n\nFor swim 
+ sets with drills\, refer to this article to choose the most relevant ones 
+ for improving your technique:\nhttps://bit.ly/Swim_Drills_Guide\n- - - -\n
+ Imported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- 
+ - - -\n\n1x\n- Warm Up: FS 0.1km 86-94% Pace  \n- Drill* 0.1km 86-94% Pace  
+ \n- Rest 20s 0% Pace  \n\n\n2x\n- Pull 0.05km 86-94% Pace  \n- Pull 0.05km 
+ 98-102% Pace  \n- Rest 20s 0% Pace  \n\n\n3x\n- Main Set: FS 0.2km 92-98% 
+ Pace  \n- Rest 20s 0% Pace  \n\n\n5x\n- FS 0.1km 98-102% Pace  \n- Rest 30
+ s 0% Pace  \n\n\n6x\n- FS 0.05km 102-115% Pace  \n- Rest 20s 0% Pace  \n\n
+ \n1x\n- Warm Down: FS 0.05km 86-94% Pace  \n- Back 0.05km 86-94% Pace  \n- 
+ Rest 15s 0% Pace  \n\n- Choice 0.1km 86-94% Pace  \n\n//////////\ntraining
+ PeaksId=3410201437\n65 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:a2c8156a-7be0-459f-ad48-cc2b8b135c10
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Bike: 2h45m Race Practice Ride
+DESCRIPTION:All in Z2.\n`- - - -\n\n- - - -\nImported with tp2intervals (ht
+ tps://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 2h45m 129-173
+ w  \n\n//////////\ntrainingPeaksId=3410201438\n117 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:69006bbc-6514-4691-b844-fce6a2bbebf1
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Run: 1h10m Run Off The Bike
+DESCRIPTION:Get off your bike and run steady in Z2.\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Acti
+ ve 1h10m 80-89% Pace  \n\n//////////\ntrainingPeaksId=3410201439\n83 train
+ ing load
+LAST-MODIFIED:20251102T041522Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:2217c6c6-047b-4055-8e10-e89794e8d0fa
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:Swim: 46m Open Water Swim
+DESCRIPTION:Open water swim all in Z2. Take as many rests as you want. This 
+ first swim is just to get used to the environment. We'll do some faster se
+ ctions from next week onwards\, but just take it easy today.\n`- - - -\nSw
+ imming in open water in training will boost your confidence and technique.
+ \nFor more on Open Water Swimming:\n\nhttps://myprocoach-help.zendesk.com/
+ hc/en-us/articles/360024016032\n- - - -\nImported with tp2intervals (https
+ ://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 1.6km 87-94% Pac
+ e  \n\n//////////\ntrainingPeaksId=3410201416\n57 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:83f5b2a7-3e2c-4cc9-871e-2a69f81a0646
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251230
+SUMMARY:Bike: 1h2m IRONMAN 70.3 Power Ups
+DESCRIPTION:Warm Up:\n5 mins in Z1-2\,\n5 x (15 secs in Z3\, 15 secs Z1-2\, 
+ 15 secs in Z4\, 15 secs in Z1-2)\n5 mins in Z2.\n\nMain Set:\n1 x (9 mins 
+ in Z3 + 5 mins in Z4)\,\n4 mins recovery in Z1-2\,\n1 x (7 mins in Z3 + 4 
+ mins in Z4)\,\n3 mins recovery in Z1-2\,\n1 x (5 mins in Z3 + 3 mins in Z4
+ )\,\n2 mins recovery in Z1-2.\n\nWarm down.\n5 mins in Z1-2.\n- - - -\nImp
+ orted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 1 5m 115-173w  \n\n1x\n- Hard 15s 175-207w  \n- Active 15s 
+ 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 
+ 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 1
+ 5s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- H
+ ard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  
+ \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \
+ n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-24
+ 2w  \n- Active 15s 115-173w  \n\n- Warm up 2 5m 129-173w  \n\n1x\n- Hard 9
+ m 175-207w  \n- Harder 5m 209-242w  \n\n- Recovery 4m 115-173w  \n\n1x\n- 
+ Hard 7m 175-207w  \n- Harder 4m 209-242w  \n\n- Recovery 3m 115-173w  \n\n
+ 1x\n- Hard 5m 175-207w  \n- Harder 3m 209-242w  \n\n- Recovery 2m 115-173w  
+ \n- Cool Down 5m 115-173w  \n\n//////////\ntrainingPeaksId=3410201463\n67 
+ training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:78a28e7d-3420-4aac-a044-e173e79233bd
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+SUMMARY:Run: 1h1m IRONMAN 70.3 Sustaining Pace
+DESCRIPTION:Warm Up:.\n4 mins in Z1-2\,\n2 mins in Z3\,\n4 mins in Z2.\n\nM
+ ain Set:\n4 x (9 mins in low Z3 + 2:30 min recoveries in Z1-2).\n\nWarm Do
+ wn:\n5 mins in Z1-2.\n- - - -\nImported with tp2intervals (https://github.
+ com/freekode/tp2intervals)\n\n- - - -\n- Warm up 4m 80-89% Pace  \n- Warm 
+ up 2m 90-94% Pace  \n- Warm up 4m 85-89% Pace  \n\n4x\n- Hard 9m 90-92% Pa
+ ce  \n- Easy 2m30s 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////
+ ////\ntrainingPeaksId=3410201462\n80 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:96dfa82e-63b0-4074-ab4d-2e5047ef2fb1
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Swim: 1h5m Pool Swim: Aerobic Endurance
+DESCRIPTION:Warm Up:\n1 x (100 FS Breathe every 3 in Z2 + 20 secs rest)\,\n
+ 1 x (100 Pull in Z2 + 100 Drill in Z2 + 20 secs rest)\,\n1 x (100 FS Breat
+ he every 5 in Z2 + 20 secs rest).\n\nMain Set:\n2 x (300 FS in Z2 + 50 FS 
+ in Z4 + 15 sec rests)\,\n2 x (200 Pull in Z2 + 100 FS in Z3 + 15 sec rests
+ )\,\n2 x (50 FS in Z2 + 50 FS in Z4 + 15 sec rests)\,\n1 x (100 Pull in Z2 
+ + 50 FS in Z4).\n\nWarm Down:\n1 x (150 Choice in Z2).\n`- - - -\nMyProCoa
+ ch Swim Drills:\n\nFor swim sets with drills\, refer to this article to ch
+ oose the most relevant ones for improving your technique:\nhttps://bit.ly/
+ Swim_Drills_Guide\n- - - -\nImported with tp2intervals (https://github.com
+ /freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS Breathe every 3 0.
+ 1km 86-94% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n- Pull 0.1km 86-94% Pace  
+ \n- Drill* 0.1km 86-94% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n- FS Breathe 
+ every 5 0.1km 86-94% Pace  \n- Rest 20s 0% Pace  \n\n\n2x\n- Main Set: FS 
+ 0.3km 86-94% Pace  \n- FS 0.05km 98-102% Pace  \n- Rest 15s 0% Pace  \n\n\
+ n2x\n- Pull 0.2km 86-94% Pace  \n- FS 0.1km 92-98% Pace  \n- Rest 15s 0% P
+ ace  \n\n\n2x\n- FS 0.05km 86-94% Pace  \n- FS 0.05km 98-102% Pace  \n- Re
+ st 15s 0% Pace  \n\n\n1x\n- Hard 0.1km 86-94% Pace  \n- Easy 0.05km 98-102
+ % Pace  \n\n- Warm Down: Choice 0.15km 86-94% Pace  \n\n//////////\ntraini
+ ngPeaksId=3410201443\n74 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:9f8911d7-4afa-44d5-a874-0d36bcfb9a2e
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Bike: 2h50m Race Practice Ride
+DESCRIPTION:All in Z2.\n`- - - -\n\n- - - -\nImported with tp2intervals (ht
+ tps://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 2h50m 129-173
+ w  \n\n//////////\ntrainingPeaksId=3410201441\n121 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:58e9c526-18f1-4317-90b3-42e78b2f9104
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Run: 1h20m Run Off The Bike
+DESCRIPTION:Get off your bike and run steady in Z2.\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Acti
+ ve 1h20m 80-89% Pace  \n\n//////////\ntrainingPeaksId=3410201442\n95 train
+ ing load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:a07cb274-aa2f-446b-b156-1f2a54c45485
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Swim: 59m Open Water Swim
+DESCRIPTION:Total Distance: 2000\n\nWarm Up:\n1 x (400 FS in Z2 + 30 secs r
+ est).\n\nMain Set:\n4 x (50 FS in Z5\, Beach or Deep Water Starts + 30 sec 
+ rests)\,\n1 x (1000 FS in Z3 + 60 secs rest).\n\nWarm Down:\n1 x (400 FS i
+ n Z2).\n- - - -\nImported with tp2intervals (https://github.com/freekode/t
+ p2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.4km 86-94% Pace  \n- Rest 3
+ 0s 0% Pace  \n\n\n4x\n- Main Set: FS\, Beach or Deep Water Starts 0.05km 1
+ 02-115% Pace  \n- Rest 30s 0% Pace  \n\n\n1x\n- FS 1.0km 92-98% Pace  \n- 
+ Rest 1m 0% Pace  \n\n- Warm Down: FS 0.4km 86-94% Pace  \n\n//////////\ntr
+ ainingPeaksId=3410201440\n68 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:f978da57-74a8-4b86-a694-82cb9fb2c431
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Bike: 1h5m IRONMAN 70.3 Power Ups
+DESCRIPTION:Warm Up:\n5 mins in Z1-2\,\n5 x (15 secs in Z3\, 15 secs Z1-2\, 
+ 15 secs in Z4\, 15 secs in Z1-2)\n5 mins in Z2.\n\nMain Set:\n1 x (10 mins 
+ in Z3 + 5 mins in Z4)\,\n4 mins recovery in Z1-2\,\n1 x (8 mins in Z3 + 4 
+ mins in Z4)\,\n3 mins recovery in Z1-2\,\n1 x (6 mins in Z3 + 3 mins in Z4
+ )\,\n2 mins recovery in Z1-2.\n\nWarm down.\n5 mins in Z1-2.\n- - - -\nImp
+ orted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 1 5m 115-173w  \n\n1x\n- Hard 15s 175-207w  \n- Active 15s 
+ 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 
+ 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 1
+ 5s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- H
+ ard 15s 209-242w  \n- Active 15s 115-173w  \n\n\n1x\n- Hard 15s 175-207w  
+ \n- Active 15s 115-173w  \n- Hard 15s 209-242w  \n- Active 15s 115-173w  \
+ n\n\n1x\n- Hard 15s 175-207w  \n- Active 15s 115-173w  \n- Hard 15s 209-24
+ 2w  \n- Active 15s 115-173w  \n\n- Warm up 2 5m 129-173w  \n\n1x\n- Hard 1
+ 0m 175-207w  \n- Harder 5m 209-242w  \n\n- Recovery 4m 115-173w  \n\n1x\n- 
+ Hard 8m 175-207w  \n- Harder 4m 209-242w  \n\n- Recovery 3m 115-173w  \n\n
+ 1x\n- Hard 6m 175-207w  \n- Harder 3m 209-242w  \n\n- Recovery 2m 115-173w  
+ \n- Cool Down 5m 115-173w  \n\n//////////\ntrainingPeaksId=3410201461\n71 
+ training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:93a2405b-5ed8-4b31-b010-d4c9c147ef97
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Run: 1h7m IRONMAN 70.3 Sustaining Pace
+DESCRIPTION:Warm Up:.\n4 mins in Z1-2\,\n2 mins in Z3\,\n4 mins in Z2.\n\nM
+ ain Set:\n4 x (10 mins in low Z3 + 2 min recoveries in Z1-2).\n\nWarm Down
+ :\n5 mins in Z1-2.\n- - - -\nImported with tp2intervals (https://github.co
+ m/freekode/tp2intervals)\n\n- - - -\n- Warm up 4m 80-89% Pace  \n- Warm up 
+ 2m 90-94% Pace  \n- Warm up 4m 85-89% Pace  \n\n4x\n- Hard 10m 90-92% Pace  
+ \n- Easy 3m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////////\nt
+ rainingPeaksId=3410201460\n88 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:aeddab3d-c1be-47b7-9135-78f043f84fc2
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Swim: 1h13m Pool Swim: Aerobic Endurance
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 15 secs rest)\,\n2 x (100 Drill i
+ n Z2 + 15 sec rests)\,\n2 x (100 Pull in Z2 + 15 secs rest).\n\nMain Set:\
+ n1 x (400 Pull in Z2 + 25 secs rest)\,\n4 x (100 FS in Z3 + 25 sec rests)\
+ ,\n2 x (200 Pull in Z2 + 20 sec rests)\,\n2 x (200 FS in Z3 + 25 sec rests
+ ).\n\nWarm Down:\n1 x (50 Back in Z2 + 50 Breast in Z2)\,\n2 x (50 Choice 
+ in Z2 + 50 FS in Z2).\n`- - - -\nMyProCoach Swim Drills:\n\nFor swim sets 
+ with drills\, refer to this article to choose the most relevant ones for i
+ mproving your technique:\nhttps://bit.ly/Swim_Drills_Guide\n- - - -\nImpor
+ ted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - 
+ -\n\n1x\n- Warm Up: FS 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\n2x\n
+ - Drill* 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\n2x\n- Pull 0.1km 8
+ 6-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- Main Set: Pull 0.4km 86-94% 
+ Pace  \n- Rest 25s 0% Pace  \n\n\n4x\n- FS 0.1km 92-98% Pace  \n- Rest 25s 
+ 0% Pace  \n\n\n2x\n- Pull 0.2km 86-94% Pace  \n- Rest 20s 0% Pace  \n\n\n2
+ x\n- FS 0.2km 92-98% Pace  \n- Rest 25s 0% Pace  \n\n\n1x\n- Warm Down: Ba
+ ck 0.05km 86-94% Pace  \n- Breast 0.05km 86-94% Pace  \n\n\n2x\n- Choice 0
+ .05km 86-94% Pace  \n- FS 0.05km 86-94% Pace  \n\n\n//////////\ntrainingPe
+ aksId=3410201444\n77 training load
+LAST-MODIFIED:20251102T041435Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:de82259c-9c54-4e31-9650-297b0d65c02c
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Bike: 3h Race Practice Ride
+DESCRIPTION:All in Z2.\n`- - - -\n\n- - - -\nImported with tp2intervals (ht
+ tps://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 3h 129-175w  
+ \n\n//////////\ntrainingPeaksId=3410201445\n129 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:85b40f4a-b0b4-42e4-938c-8d8d419b1b46
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Run: 1h30m Run Off The Bike
+DESCRIPTION:Get off your bike and run steady in Z2.\n- - - -\nImported with 
+ tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Acti
+ ve 1h30m 80-89% Pace  \n\n//////////\ntrainingPeaksId=3410201446\n107 trai
+ ning load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:541c1973-62b4-402b-84b3-5c8223cd3b6d
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Swim: 1h8m Open Water Swim
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 10 secs rest)\,\n1 x (100 Drill i
+ n Z2 + 10 secs rest).\n\nMain Set:\n3 x (700 FS in Z3 + 40 sec rests).\n\n
+ Warm Down:\n1 x (100 FS in Z2).\n- - - -\nImported with tp2intervals (http
+ s://github.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1k
+ m 87-94% Pace  \n- Rest 10s 0% Pace  \n\n\n1x\n- Drill* 0.1km 87-94% Pace  
+ \n- Rest 10s 0% Pace  \n\n\n3x\n- Main Set: FS 0.7km 95-97% Pace  \n- Rest 
+ 40s 0% Pace  \n\n- Warm Down: FS 0.1km 87-94% Pace  \n\n//////////\ntraini
+ ngPeaksId=3410201409\n89 training load
+LAST-MODIFIED:20251102T041435Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:ae418f74-742e-4de9-b926-a70f89b39a28
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Bike: 42m Fitness Test: FTP and Threshold HR (42 mins)
+DESCRIPTION:Use the results from this test to calculate your thresholds and 
+ personalise your training.\nhttps://bit.ly/EnterBikeZones (article)\n\nWar
+ m Up:\n12 mins in Z2\,\n5 x (15 secs in Z4 + 45 secs easy in Z2).\n\nMain 
+ Set:\n20 mins maximal steady state time trial. Go as hard as you can susta
+ in for 20 minutes.\n\nWarm Down:\n5 mins in Z2.\n\nYour Functional Thresho
+ ld Power (FTP) is your average power for the 20-minute test multiplied by 
+ 219w.\n\nYour Bike Threshold Heart Rate is your average for the 20-minute 
+ test less 6 beats.\n`- - - -\nThere are TWO important steps to ensure your 
+ workouts are set at the correct level for your ability.\n\n1/ Enter your t
+ hresholds from your fitness test results:\nhttps://bit.ly/EnterYourThresho
+ lds (video)\n\n2/ Use the MyProCoach auto-calculation to update your train
+ ing zones: https://bit.ly/UpdateYour5TrainingZones (video)\n\nLearn more a
+ bout Bike Fitness Testing: https://bit.ly/BikeFitnessTest (article)\n- - - 
+ -\nImported with tp2intervals (https://github.com/freekode/tp2intervals)\n
+ \n- - - -\n- Warm up 12m 129-173w  \n\n5x\n- Hard 15s 209-242w  \n- Easy 4
+ 5s 129-173w  \n\n- Active 20m 207-253w  \n- Cool Down 5m 129-173w  \n\n///
+ ///////\ntrainingPeaksId=3410201475\n53 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:643d8025-7316-4d23-a24f-b587f93b55b2
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Swim: 1h4m Fitness Test: Critical Swim Speed (CSS) 1900m/2078y
+DESCRIPTION:Use the results from this test to personalise your planned swim 
+ sessions.\nhttps://bit.ly/PersonliseYourSwimWorkouts (article)\n\nWarm up:
+ \n6 x (50 FS in Z2 + 20 sec rests)\,\n4 x (25 FS in Z4 + 25 FS in Z2 + 20 
+ sec rests).\n\n`-----------\nTEST*:\n1 x 400 FS maximal effort time trial\
+ , RECORD TIME\,\n5 mins easy active recovery\,\n1 x 200 FS maximal effort 
+ time trial\, RECORD TIME\,\n1 min rest\n`-----------\n\nMain Set:\n1 x (10
+ 0 FS in Z1 + 15 secs rest)\,\n1 x (100 FS in Z2 + 15 secs rest)\,\n1 x (10
+ 0 FS in Z3 + 20 secs rest)\,\n1 x (100 FS in Z4 + 60 secs rest)\,\n4 x (50 
+ FS Build Z1 to Z4) + 60 secs rest.\n\nWarm Down:\n200 Choice in Z2.\n\nLea
+ rn more about setting your pool length and following your swim workouts:\n
+ https://bit.ly/FollowingSwimSets (article)\n`- - - -\nThere are TWO import
+ ant steps to ensure your workouts are set at the correct level for your ab
+ ility.\n\n1/ Enter your thresholds from your fitness test results:\nhttps:
+ //bit.ly/EnterYourThresholds (video)\n\n2/ Use the MyProCoach auto-calcula
+ tion to update your training zones: https://bit.ly/UpdateYour5TrainingZone
+ s (video)\n\nLearn more about CSS Swim Training: https://bit.ly/CSS_Swim_T
+ raining (blog article)\n- - - -\nImported with tp2intervals (https://githu
+ b.com/freekode/tp2intervals)\n\n- - - -\n\n6x\n- Warm Up: FS 0.05km 86-94% 
+ Pace  \n- Rest 20s 0% Pace  \n\n\n4x\n- FS 0.025km 98-102% Pace  \n- FS 0.
+ 025km 86-94% Pace  \n- Rest 20s 0% Pace  \n\n- Test Part 1 0.4km 90-120% P
+ ace  \n- Active Recovery 5m 75-85% Pace  \n- Test Part 2 0.2km 90-120% Pac
+ e  \n- Rest 1m 0% Pace  \n\n1x\n- Main Set: FS 0.1km 77-92% Pace  \n- Rest 
+ 15s 0% Pace  \n\n\n1x\n- FS 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\
+ n1x\n- FS 0.1km 92-98% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- FS 0.1km 98
+ -102% Pace  \n- Rest 1m 0% Pace  \n\n\n1x\n- FS 0.05km 77-92% Pace  \n- FS 
+ 0.05km 86-94% Pace  \n- FS 0.05km 92-98% Pace  \n- FS 0.05km 102-115% Pace  
+ \n\n- Rest 1m 0% Pace  \n- Recovery 0.2km 86-94% Pace  \n\n//////////\ntra
+ iningPeaksId=3410201473\n63 training load
+LAST-MODIFIED:20251102T041435Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:7f22704e-26e4-48c3-b6cc-e2d46a8977db
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Run: 44m Fitness Test: Threshold Pace and HR (44 mins)
+DESCRIPTION:Use the results from this test to calculate your thresholds and 
+ personalise your training.\nhttps://bit.ly/EnterRunZones (article)\n\nWarm 
+ Up:\n5 mins in Z2 (easy/steady)\,\n4 x (30 secs accelerating from Z2 to Z4 
+ + 30 secs recoveries in Z1).\n\nMain Set:\nRun at your fastest sustainable 
+ pace for 30 minutes. Record your average pace and heart rate.\n\nWarm Down
+ :\n5 mins in Z1 to Z2 (easy).\n\nYour Threshold Run Pace is your average p
+ ace for the 30-minute test interval.\n\nYour Run Threshold Heart Rate is y
+ our average for the 30-minute test.\n`- - - -\nThere are TWO important ste
+ ps to ensure your workouts are set at the correct level for your ability.\
+ n\n1/ Enter your thresholds from your fitness test results:\nhttps://bit.l
+ y/EnterYourThresholds (video)\n\n2/ Use the MyProCoach auto-calculation to 
+ update your training zones: https://bit.ly/UpdateYour5TrainingZones (video
+ )\n\nLearn more about Run Fitness Testing: https://bit.ly/RunFitnessTest (
+ blog article)\n- - - -\nImported with tp2intervals (https://github.com/fre
+ ekode/tp2intervals)\n\n- - - -\n- Warm up 5m 80-89% Pace  \n\n4x\n- Hard 3
+ 0s 95-99% Pace  \n- Easy 30s 75-79% Pace  \n\n- Active 30m 90-110% Pace  \
+ n- Cool Down 5m 75-89% Pace  \n\n//////////\ntrainingPeaksId=3410201477\n6
+ 6 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:9ab041ef-7cb2-4d55-bcd8-e17935191baa
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Bike: 1h30m Aerobic Endurance Ride
+DESCRIPTION:Easy/steady Z2 ride today.\n- - - -\nImported with tp2intervals 
+ (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 1h30m 129-
+ 173w  \n\n//////////\ntrainingPeaksId=3410201403\n64 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:249c433f-7a36-4837-a436-b46d5320a2ee
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Run: 45m Run Off The Bike
+DESCRIPTION:Z2 steady run off the bike\n- - - -\nImported with tp2intervals 
+ (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 45m 80-89% 
+ Pace  \n\n//////////\ntrainingPeaksId=3410201404\n54 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:beb0d334-1441-4d7c-a851-7d6009595771
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Swim: 58m Open Water Swim
+DESCRIPTION:Warm Up:\n1 x (400 FS in Z2 + 30 secs rest).\n\nMain Set:\n4 x 
+ (50 FS in Z5\, Beach or Deep Water Starts + 30 sec rests)\,\n1 x (1000 FS 
+ in Z3 + 60 secs rest).\n\nWarm Down:\n1 x (400 FS in Z2).\n`- - - -\nPhil’
+ s Training Tip:\n\nBe patient\, physiological improvements only happen in 
+ a "drip drip" way like coffee pouring through a filter. There are no short
+ cuts.\n- - - -\nImported with tp2intervals (https://github.com/freekode/tp
+ 2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.4km 87-94% Pace  \n- Rest 30
+ s 0% Pace  \n\n\n4x\n- Main Set: FS\, Beach or Deep Water Starts 0.05km 10
+ 4-111% Pace  \n- Rest 30s 0% Pace  \n\n\n1x\n- FS 1.0km 95-97% Pace  \n- R
+ est 1m 0% Pace  \n\n- Warm Down: FS 0.4km 87-94% Pace  \n\n//////////\ntra
+ iningPeaksId=3410201410\n69 training load
+LAST-MODIFIED:20251102T041434Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:695d7eee-1ee7-4f12-854d-ca3a27575fdf
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Bike: 1h2m Speed Workout Bike
+DESCRIPTION:Warm Up:\n15 mins in Z2.\n\nMain Set:\n6 mins in Z4 + 2 mins re
+ covery in Z2\,\n7 mins in Z4 + 2 mins recovery in Z2\,\n8 mins in Z4 + 2 m
+ ins recovery in Z2\,\n7 mins in Z4 + 2 mins recovery in Z2\,\n6 mins in Z4
+ .\n\nWarm Down:\n5 mins in Z2.\n- - - -\nImported with tp2intervals (https
+ ://github.com/freekode/tp2intervals)\n\n- - - -\n- Warm up 15m 129-173w  \
+ n\n1x\n- Hard 6m 209-242w  \n- Easy 2m 129-173w  \n\n\n1x\n- Hard 7m 209-2
+ 42w  \n- Easy 2m 129-173w  \n\n\n1x\n- Hard 8m 209-242w  \n- Easy 2m 129-1
+ 73w  \n\n\n1x\n- Hard 7m 209-242w  \n- Easy 2m 129-173w  \n\n- Active 6m 2
+ 09-242w  \n- Cool Down 5m 129-173w  \n\n//////////\ntrainingPeaksId=341020
+ 1400\n79 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:66575639-7e12-4222-b310-3a99e5c3cdaa
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Run: 52m Speed Workout Run
+DESCRIPTION:Warm Up:\n15 mins easy jog in Z2.\n\nMain Set:\n4 x (90 secs in 
+ upper Z5 + 2 min recoveries in Z1-2)\,\n2 x (3 mins in lower Z5 + 2 min re
+ coveries in Z1-Z2)\,\n6 mins in Z4 + 2 mins recovery in Z1-2.\n\nWarm Down
+ :\n5 mins in Z2.\n`- - - -\n\n- - - -\nImported with tp2intervals (https:/
+ /github.com/freekode/tp2intervals)\n\n- - - -\n- Warm up 15m 80-89% Pace  
+ \n\n4x\n- Hard 1m30s 107-115% Pace  \n- Easy 2m 75-89% Pace  \n\n\n2x\n- H
+ ard 3m 100-107% Pace  \n- Easy 2m 75-89% Pace  \n\n\n1x\n- Hard 6m 95-99% 
+ Pace  \n- Easy 2m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n///////
+ ///\ntrainingPeaksId=3410201402\n71 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:73f76577-a775-4875-af34-7748d9cd0b77
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Swim: 1h11m Pool Swim: Threshold Efforts
+DESCRIPTION:Warm Up:\n1 x (150 FS in Z2 + 50 FS in Z4 + 20 secs rest)\,\n1 
+ x (100 FS in Z2 + 100 FS in Z4 + 30 secs rest)\,\n1 x (50 FS in Z2 + 150 F
+ S in Z4 + 30 secs rest)\,\n2 x (150 FS in Z4 + 30 sec rests).\n\nMain Set: 
+ Repeat 2 sets of 500 as below:\n1 x (100 FS in Z2 + 15 secs rest)\,\n1 x (
+ 100 FS in Z3 + 15 secs rest)\,\n1 x (100 FS in Z4 + 15 secs rest)\,\n1 x (
+ 100 FS in Z5 + 15 secs rest)\,\n1 x (100 Pull in Z2 + 15 secs rest).\n\nWa
+ rm Down:\n1 x (100 Kick in Z2 + 100 FS in Z2 + 15 secs rest)\,\n1 x (50 Ba
+ ck in Z2 + 50 Breast in Z2 + 10 secs rest)\,\n1 x (200 Choice in Z2).\n`- 
+ - - -\nMyProCoach Swim Drills:\n\nFor swim sets with drills\, refer to thi
+ s article to choose the most relevant ones for improving your technique:\n
+ https://bit.ly/Swim_Drills_Guide\n- - - -\nImported with tp2intervals (htt
+ ps://github.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1
+ 5km 87-94% Pace  \n- FS 0.05km 98-103% Pace  \n- Rest 20s 0% Pace  \n\n\n1
+ x\n- FS 0.1km 87-94% Pace  \n- FS 0.1km 98-103% Pace  \n- Rest 30s 0% Pace  
+ \n\n\n1x\n- FS 0.05km 87-94% Pace  \n- FS 0.15km 98-103% Pace  \n- Rest 30
+ s 0% Pace  \n\n\n2x\n- FS 0.15km 98-103% Pace  \n- Rest 30s 0% Pace  \n\n\
+ n2x\n- Main Set: FS 0.1km 87-94% Pace  \n- Rest 15s 0% Pace  \n- FS 0.1km 
+ 95-97% Pace  \n- Rest 15s 0% Pace  \n- FS 0.1km 98-103% Pace  \n- Rest 15s 
+ 0% Pace  \n- FS 0.1km 104-111% Pace  \n- Rest 15s 0% Pace  \n- Pull 0.1km 
+ 87-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- Warm Down: Kick 0.1km 87-94
+ % Pace  \n- FS 0.1km 87-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- Back 0
+ .05km 87-94% Pace  \n- Breast 0.05km 87-94% Pace  \n- Rest 10s 0% Pace  \n
+ \n- Choice 0.2km 87-94% Pace  \n\n//////////\ntrainingPeaksId=3410201471\n
+ 82 training load
+LAST-MODIFIED:20251102T041435Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:f8f69f50-5013-4bd3-8621-183ad64151b7
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Bike: 2h15m Race Practice Ride
+DESCRIPTION:All in Z2.\n- - - -\nImported with tp2intervals (https://github
+ .com/freekode/tp2intervals)\n\n- - - -\n- Active 2h15m 129-173w  \n\n/////
+ /////\ntrainingPeaksId=3410201447\n96 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:85fa6a1d-1b63-4a3e-bd48-73960d9e1b82
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Run: 1h40m Run Off The Bike
+DESCRIPTION:All in Z2\, nice and steady.\n- - - -\nImported with tp2interva
+ ls (https://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 1h40m 8
+ 0-89% Pace  \n\n//////////\ntrainingPeaksId=3410201399\n119 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:ff804a08-c6be-48b3-a73e-ee1791612c91
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Swim: 1h14m Open Water Swim
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 10 secs rest)\,\n1 x (100 Drill i
+ n Z2 + 10 secs rest).\n\nMain Set:\n3 x (700 FS in Z3 + 40 sec rests).\n\n
+ Warm Down:\n1 x (300 FS in Z2).\n- - - -\nImported with tp2intervals (http
+ s://github.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1k
+ m 87-94% Pace  \n- Rest 10s 0% Pace  \n\n\n1x\n- Drill* 0.1km 87-94% Pace  
+ \n- Rest 10s 0% Pace  \n\n\n3x\n- Main Set: FS 0.7km 95-97% Pace  \n- Rest 
+ 40s 0% Pace  \n\n- Warm Down: FS 0.3km 87-94% Pace  \n\n//////////\ntraini
+ ngPeaksId=3410201411\n96 training load
+LAST-MODIFIED:20251102T041437Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:bf67a840-0e06-4341-a877-1a6fb7daafbb
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Bike: 50m Speed Workout Bike
+DESCRIPTION:Warm Up:\n10 mins in Z2.\n\nMain Set:\n5 x (5 mins in Z4 + 2 mi
+ n recoveries in Z2).\n\nWarm Down:\n5 mins in Z2.\n`- - - -\n\n- - - -\nIm
+ ported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 10m 129-173w  \n\n5x\n- Hard 5m 209-242w  \n- Easy 2m 129-1
+ 73w  \n\n- Cool Down 5m 129-173w  \n\n//////////\ntrainingPeaksId=34102013
+ 97\n61 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:4f4376cc-0607-46d8-b309-3e18b786a805
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:Run: 43m Speed Workout Run
+DESCRIPTION:Warm Up:\n10 mins in Z2.\n\nMain Set:\n7 x (2 mins in Z5 + 2 mi
+ n recoveries in Z2).\n\nWarm Down:\n5 mins in Z2.\n`- - - -\n\n- - - -\nIm
+ ported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - 
+ - -\n- Warm up 10m 80-89% Pace  \n\n7x\n- Hard 2m 100-115% Pace  \n- 7Easy 
+ 2m 80-89% Pace  \n\n- Cool Down 5m 80-89% Pace  \n\n//////////\ntrainingPe
+ aksId=3410201408\n61 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:ad3b5e3f-ba4b-475b-b72d-e79ae4fb6622
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Swim: 1h15m Pool Swim: Threshold Efforts
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 100 Pull in Z2 + 15 secs\nrest)\,
+ \n1 x (100 FS in Z2 + 100 Pull in Z3 + 20 secs rest)\,\n1 x (100 FS in Z2 
+ + 100 Pull in Z4 + 20 secs rest).\n\nMain Set:\n1 x (400 FS in Z4 + 40 sec
+ s rest)\,\n1 x (400 Pull in Z4 + 40 secs rest)\,\n2 x (200 FS in Z4 + 40 s
+ ec rests)\,\n2 x (200 Pull in Z4 + 40 sec rests).\n\nWarm Down:\n1 x (100 
+ Pull in Z2 + 100 FS in Z2)\,\n1 x (200 Choice in Z2).\n`- - - -\nMyProCoac
+ h Swim Drills:\n\nFor swim sets with drills\, refer to this article to cho
+ ose the most relevant ones for improving your technique:\nhttps://bit.ly/S
+ wim_Drills_Guide\n- - - -\nImported with tp2intervals (https://github.com/
+ freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1km 86-94% Pace  
+ \n- Pull 0.1km 86-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n-  FS 0.1km 86
+ -94% Pace  \n- Pull 0.1km 92-98% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n-  
+ FS 0.1km 86-94% Pace  \n- Pull 0.1km 98-102% Pace  \n- Rest 20s 0% Pace  \
+ n\n\n1x\n- Main Set: FS 0.4km 98-102% Pace  \n- Rest 40s 0% Pace  \n\n\n1x
+ \n- Pull 0.4km 98-102% Pace  \n- Rest 40s 0% Pace  \n\n\n2x\n- FS 0.2km 98
+ -102% Pace  \n- Rest 40s 0% Pace  \n\n\n2x\n- Pull 0.2km 98-102% Pace  \n- 
+ Rest 40s 0% Pace  \n\n\n1x\n- Warm Down: Pull 0.1km 86-94% Pace  \n- FS 0.
+ 1km 86-94% Pace  \n- Choice 0.2km 86-94% Pace  \n\n\n//////////\ntrainingP
+ eaksId=3410201448\n92 training load
+LAST-MODIFIED:20251102T041438Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:13dd4aff-483c-481e-bce7-f05fd1c0ac52
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Bike: 2h Race Practice Ride
+DESCRIPTION:All in Z2.\n- - - -\nImported with tp2intervals (https://github
+ .com/freekode/tp2intervals)\n\n- - - -\n- Active 2h 129-173w  \n\n////////
+ //\ntrainingPeaksId=3410201449\n85 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:31ba2a7d-10b5-460d-8047-08abe8094d2c
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Run: 1h Run Off The Bike Faster at First
+DESCRIPTION:Do 10 mins in upper Z2 to low Z3. Then settle in to a steady Z2 
+ pace for the remainder.\n- - - -\nImported with tp2intervals (https://gith
+ ub.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Hard 10m 87-92% Pace  \n
+ - Easy 50m 80-89% Pace  \n\n\n//////////\ntrainingPeaksId=3410201450\n73 t
+ raining load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:9c93a29a-0239-460f-bf08-d5f90856f8fc
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Swim: 1h20m Open Water: 2800
+DESCRIPTION:Total Distance: 2800\n\nWarm Up:\n1 x (100 FS in Z2 + 10 secs r
+ est)\,\n1 x (100 Drill in Z2 + 10 secs rest).\n\nMain Set:\n3 x (800 FS in 
+ Z3 + 40 sec rests).\n\nWarm Down:\n1 x (200 FS in Z2).\n- - - -\nImported 
+ with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n\
+ n1x\n- Warm Up: FS 0.1km 86-94% Pace  \n- Rest 10s 0% Pace  \n\n\n1x\n- Dr
+ ill* 0.1km 86-94% Pace  \n- Rest 10s 0% Pace  \n\n\n3x\n- Main Set: FS 0.8
+ km 92-98% Pace  \n- Rest 40s 0% Pace  \n\n- Warm Down: FS 0.2km 86-94% Pac
+ e  \n\n//////////\ntrainingPeaksId=3410201451\n102 training load
+LAST-MODIFIED:20251102T041440Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:1a33376d-3887-45fd-a7ba-5a1e7c7f451b
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Bike: 42m Speed Workout Bike
+DESCRIPTION:Warm Up:\n10 mins in Z2.\n\nMain Set:\n4 mins in low Z4 + 30 se
+ cs recovery in Z1\,\n5 mins in low Z4 + 30 secs recovery in Z1\,\n6 mins i
+ n low Z4 + 2 mins recovery in Z1\,\n5 mins in low Z4 + 30 secs recovery in 
+ Z1\,\n4 mins in low Z4.\n\nWarm Down:\n5 mins in Z2.\n`- - - -\n\n- - - -\
+ nImported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n
+ - - - -\n- Warm up 10m 129-173w  \n\n1x\n- Hard 4m 209-223w  \n- Easy 30s 
+ 104-127w  \n\n\n1x\n- Hard 5m 209-223w  \n- Easy 30s 104-127w  \n\n\n1x\n- 
+ Hard 6m 209-223w  \n- Easy 2m 104-127w  \n\n\n1x\n- Hard 5m 209-223w  \n- 
+ Easy 30s 104-127w  \n\n- Active 4m 209-223w  \n- Cool Down 5m 129-173w  \n
+ \n//////////\ntrainingPeaksId=3410201394\n50 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:378dbbb6-cd0f-40bd-bf85-4fe555ca89a5
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Run: 40m Speed Workout Run
+DESCRIPTION:Warm Up:\n15 mins in Z2.\n\nMain Set:\n3 x (3 mins in Z5 + 2 mi
+ n recoveries in Z2).\n\nWarm Down:\n10 mins in Z2.\n`- - - -\nToday's Tech
+ nique Focus:\nDriving the Thigh.\n\nConcentrate on driving the thigh of yo
+ ur swing leg forward a little more forcefully than you normally do. The mo
+ re forceful forward/upward movement of this leg will create a counterbalan
+ cing downward/backward action in your opposite leg as it comes into contac
+ t with the ground. (Think of the way your free arm moves in opposition to 
+ your throwing arm when you throw a ball hard.)\nFeel free to concentrate o
+ n driving only one thigh throughout a workout or\, if you can manage it\, 
+ to concentrate on driving both thighs. (The average stride rate being in e
+ xcess of 150 per minute\, it can be difficult to focus your attention prop
+ erly on both legs when using this proprioceptive cue). This cue will help 
+ you refine the coordinated timing of movements between your two legs and e
+ nhance your stride stiffness.\n- - - -\nImported with tp2intervals (https:
+ //github.com/freekode/tp2intervals)\n\n- - - -\n- Warm up 15m 80-89% Pace  
+ \n\n3x\n- Hard 3m 100-115% Pace  \n- Easy 2m 80-89% Pace  \n\n- Cool Down 
+ 10m 80-89% Pace  \n\n//////////\ntrainingPeaksId=3410201395\n54 training l
+ oad
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:b05d9484-df96-4378-a328-2cea78156319
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Swim: 53m Race Pace Swim
+DESCRIPTION:Warm Up:\n1 x (300 FS in Z2 + 30 secs rest).\n\nMain Set:\n1 x 
+ (1500 FS in Z3 + 60 secs rest).\n\nWarm Down:\n1 x (100 Choice in Z2).\n`- 
+ - - -\nMyProCoach Swim Drills:\n\nFor swim sets with drills\, refer to thi
+ s article to choose the most relevant ones for improving your technique:\n
+ https://bit.ly/Swim_Drills_Guide\n- - - -\nImported with tp2intervals (htt
+ ps://github.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.3
+ km 87-94% Pace  \n- Rest 30s 0% Pace  \n\n\n1x\n- Main Set: FS 1.5km 95-97
+ % Pace  \n- Rest 1m 0% Pace  \n\n- Warm Down: Choice 0.1km 87-94% Pace  \n
+ \n//////////\ntrainingPeaksId=3410201414\n70 training load
+LAST-MODIFIED:20251102T041441Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:96a3f8fa-3a4c-4e57-b077-6cf2bd9ddbec
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Bike: 1h30m Race Practice Ride
+DESCRIPTION:Warm Up:\n30 mins in Z2.\n\nMain Set:\n2 x (20 mins in low to m
+ id Z3 + 3 min recoveries in Z2).\n\nWarm Down:\n14 mins in Z2.\n- - - -\nI
+ mported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- 
+ - - -\n- Warm up 30m 129-173w  \n\n2x\n- Hard 20m 175-191w  \n- Easy 3m 12
+ 9-173w  \n\n- Cool Down 14m 129-173w  \n\n//////////\ntrainingPeaksId=3410
+ 201452\n78 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:c7bdbebc-1acc-40fb-acfa-bb64741059cf
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Run: 40m Run Off The Bike Faster at First
+DESCRIPTION:Straight after your ride\, grab your running shoes and run for 
+ 15 mins all in Z3. Then ease down into Z2 for 25 mins.\n- - - -\nImported 
+ with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\n- 
+ Active 15m 90-94% Pace  \n- Cool Down 25m 80-89% Pace  \n\n//////////\ntra
+ iningPeaksId=3410201396\n51 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:b4c89969-730f-4b88-8c45-c3fd64a85005
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:Swim: 1h3m Open Water Swim
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 10 secs rest)\,\n1 x (100 Drill i
+ n Z2 + 10 secs rest).\n\nMain Set:\n2 x (800 FS in Z3 + 40 sec rests).\n\n
+ Warm Down:\n1 x (400 FS in Z2).\n- - - -\nImported with tp2intervals (http
+ s://github.com/freekode/tp2intervals)\n\n- - - -\n\n1x\n- Warm Up: FS 0.1k
+ m 86-94% Pace  \n- Rest 10s 0% Pace  \n\n\n1x\n- Drill* 0.1km 86-94% Pace  
+ \n- Rest 10s 0% Pace  \n\n\n2x\n- Main Set: FS 0.8km 92-98% Pace  \n- Rest 
+ 40s 0% Pace  \n\n- Warm Down: FS 0.4km 86-94% Pace  \n\n//////////\ntraini
+ ngPeaksId=3410201453\n80 training load
+LAST-MODIFIED:20251102T041443Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:2bd5346b-cf92-4fee-b61d-47be66cd1e2e
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Bike: 35m Short Speed Workout
+DESCRIPTION:Warm Up:\n15 mins in Z2.\n\nMain Set:\n4 x (3 mins in Z4 + 60 s
+ ec recoveries in Z1 to Z2).\n\nWarm Down:\n5 mins in Z2.\n- - - -\nImporte
+ d with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - -\
+ n- Warm up 15m 129-173w  \n\n3x\n- Hard 3m 209-242w  \n- Easy 1m 104-173w  
+ \n\n- Active 3m 209-242w  \n- Cool Down 5m 129-173w  \n\n//////////\ntrain
+ ingPeaksId=3410201384\n38 training load
+LAST-MODIFIED:20251102T100223Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:4e037c48-2b11-452f-b2b9-5d11edeae005
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Run: 30m Short Speed Workout
+DESCRIPTION:Warm Up:\n15 mins in Z2.\n\nMain Set:\n10 mins in low Z4.\n\nWa
+ rm Down:\n5 mins in Z2.\n- - - -\nImported with tp2intervals (https://gith
+ ub.com/freekode/tp2intervals)\n\n- - - -\n- Warm up 15m 80-89% Pace  \n- A
+ ctive 10m 95-97% Pace  \n- Cool Down 5m 80-89% Pace  \n\n//////////\ntrain
+ ingPeaksId=3410201391\n39 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:0b140c1c-87c3-495e-b0ed-77151df246f6
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Swim: 1h Pool Swim: Recovery
+DESCRIPTION:Warm Up:\n1 x (100 FS in Z2 + 100 Drill in Z2 + 15 secs rest)\,
+ \n2 x (50 Breast in Z2 + 50 Back in Z2 + 15 sec rests).\n\nMain Set:\n1 x 
+ (100 FS in Z2 + 100 Pull in Z2 + 20 secs rest)\,\n1 x (200 FS in Z2 + 300 
+ Pull in Z2 + 30 secs rest)\,\n1 x (300 FS in Z2 + 200 Pull in Z2 + 30 secs 
+ rest)\,\n1 x (100 FS in Z2 + 100 Pull in Z2 + 20 secs rest).\n\nWarm Down:
+ \n1 x (200 Choice in Z2).\n`- - - -\nMyProCoach Swim Drills:\n\nFor swim s
+ ets with drills\, refer to this article to choose the most relevant ones f
+ or improving your technique:\nhttps://bit.ly/Swim_Drills_Guide\n- - - -\nI
+ mported with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- 
+ - - -\n\n1x\n- Warm Up: FS 0.1km 87-94% Pace  \n- Drill* 0.1km 87-94% Pace  
+ \n- Rest 15s 0% Pace  \n\n\n2x\n- Breast 0.05km 87-94% Pace  \n- Back 0.05
+ km 87-94% Pace  \n- Rest 15s 0% Pace  \n\n\n1x\n- Main Set: FS 0.1km 87-94
+ % Pace  \n- Pull 0.1km 87-94% Pace  \n- Rest 20s 0% Pace  \n\n\n1x\n- FS 0
+ .2km 87-94% Pace  \n- Pull 0.3km 87-94% Pace  \n- Rest 30s 0% Pace  \n\n\n
+ 1x\n- FS 0.3km 87-94% Pace  \n- Pull 0.2km 87-94% Pace  \n- Rest 30s 0% Pa
+ ce  \n\n\n1x\n- FS 0.1km 87-94% Pace  \n- Pull 0.1km 87-94% Pace  \n- Rest 
+ 20s 0% Pace  \n\n- Warm Down: Choice 0.2km 87-94% Pace  \n\n//////////\ntr
+ ainingPeaksId=3410201413\n66 training load
+LAST-MODIFIED:20251102T041444Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:a6173bc8-cd31-42c0-b7d9-3b04ae6f78b5
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Run: 25m Easy Run
+DESCRIPTION:Nice easy run in Z2\, preferably at race venue.\n- - - -\nImpor
+ ted with tp2intervals (https://github.com/freekode/tp2intervals)\n\n- - - 
+ -\n- Active 25m 80-89% Pace  \n\n//////////\ntrainingPeaksId=3410201392\n3
+ 0 training load
+LAST-MODIFIED:20251102T041523Z
+CATEGORIES:WORKOUT
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:ce409084-0e8f-45b6-a03f-d57dcebb714b
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Bike: 30m Easy Ride On Race Route
+DESCRIPTION:Ride on your race day bike\, all in Z2. Preferably on the race 
+ route. Just to check your bike is working ok and to get a feel for the rou
+ te.\n- - - -\nImported with tp2intervals (https://github.com/freekode/tp2i
+ ntervals)\n\n- - - -\n- Active 30m 129-173w  \n\n//////////\ntrainingPeaks
+ Id=3410201389\n21 training load
+LAST-MODIFIED:20251102T100224Z
+CATEGORIES:WORKOUT
+CATEGORIES:Ride
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:27827d8c-89dd-4623-a28d-415a899b5201
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Swim: 43m Open Water Swim
+DESCRIPTION:Easy/steady swim in Z2. Preferably at the race destination. Jus
+ t to get a feel for the conditions.\n- - - -\nImported with tp2intervals (
+ https://github.com/freekode/tp2intervals)\n\n- - - -\n- Active 1.5km 87-94
+ % Pace  \n\n//////////\ntrainingPeaksId=3410201412\n54 training load
+LAST-MODIFIED:20251102T041445Z
+CATEGORIES:WORKOUT
+CATEGORIES:Swim
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T164950Z
+UID:e9a15f5f-c01a-4085-b41d-9f220308a5fc
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Other: Muscat 70.3
+DESCRIPTION:IronMan
+LAST-MODIFIED:20251108T114929Z
+CATEGORIES:RACE_A
+CATEGORIES:Other
+END:VEVENT
+END:VCALENDAR

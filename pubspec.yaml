@@ -1,0 +1,33 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # For the visuals
+  fl_chart: ^0.66.0  # The "Taper" mountain graph
+  percent_indicator: ^4.2.3 # The circular progress rings
+  
+  # For the logic
+  icalendar_parser: ^2.1.0 # To read your TP plan
+  http: ^1.2.0 # To talk to Strava
+  shared_preferences: ^2.5.3 # To save your "Debt" and settings
+  intl: ^0.19.0 # Date formatting
+  flutter_dotenv: ^5.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env
