@@ -1,10 +1,13 @@
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:logging/logging.dart';
+import 'logging_service.dart';
 
 /// A service for managing logistics tasks related to the Ironman race.
 ///
 /// This class provides a master list of tasks and methods to retrieve and
 /// manage the status of these tasks using shared preferences.
 class LogisticsService {
+  final Logger _logger = LoggingService.logger;
   // The Standard Ironman Protocol Checklist
   final List<Map<String, dynamic>> _masterList = [
     {'id': 'hotel', 'title': 'Book Race Hotel', 'weeksOut': 24},
@@ -27,27 +30,32 @@ class LogisticsService {
   ///
   /// Returns a list of maps, where each map represents a pending task.
   Future<List<Map<String, dynamic>>> getPendingTasks(int weeksUntilRace) async {
-    final prefs = await SharedPreferences.getInstance();
-    List<Map<String, dynamic>> pending = [];
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      List<Map<String, dynamic>> pending = [];
 
-    for (var task in _masterList) {
-      // Check if already done
-      bool isDone = prefs.getBool('task_${task['id']}') ?? false;
-      
-      // Check if it's time to worry about this (show tasks due now or in the past)
-      bool isTime = task['weeksOut'] >= weeksUntilRace; 
+      for (var task in _masterList) {
+        // Check if already done
+        bool isDone = prefs.getBool('task_${task['id']}') ?? false;
 
-      // For a smoother UI, let's just show everything that isn't done, 
-      // sorted by urgency.
-      if (!isDone) {
-        pending.add(task);
+        // Check if it's time to worry about this (show tasks due now or in the past)
+        bool isTime = task['weeksOut'] >= weeksUntilRace;
+
+        // For a smoother UI, let's just show everything that isn't done,
+        // sorted by urgency.
+        if (!isDone) {
+          pending.add(task);
+        }
       }
+
+      // Sort by urgency (closest to race day first, but showing big items first)
+      pending.sort((a, b) => b['weeksOut'].compareTo(a['weeksOut']));
+
+      return pending;
+    } catch (e) {
+      _logger.severe('Error getting pending tasks: $e');
+      return [];
     }
-    
-    // Sort by urgency (closest to race day first, but showing big items first)
-    pending.sort((a, b) => b['weeksOut'].compareTo(a['weeksOut']));
-    
-    return pending;
   }
 
   /// Marks a logistics task as complete.
@@ -56,7 +64,11 @@ class LogisticsService {
   ///
   /// [id] is the ID of the task to be marked as complete.
   Future<void> markTaskComplete(String id) async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setBool('task_$id', true);
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setBool('task_$id', true);
+    } catch (e) {
+      _logger.severe('Error marking task as complete: $e');
+    }
   }
 }
