@@ -1,6 +1,14 @@
+/// **DEPRECATED:** This file is no longer in use.
+///
+/// The functionality of this dashboard has been merged into `lib/main.dart`.
+/// This file is kept for historical purposes and should not be modified.
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 
+/// A deprecated dashboard widget.
+///
+/// This class represents the old dashboard UI, which has since been replaced
+/// by the implementation in `lib/main.dart`.
 class Dashboard extends StatelessWidget {
   final int daysUntilRace = DateTime(2024, 6, 1).difference(DateTime.now()).inDays; // Set your race date
   final int totalDebtMinutes = 45; // Calculated from ComplianceEngine

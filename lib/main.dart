@@ -13,7 +13,17 @@ Future<void> main() async {
   runApp(IronmanApp());
 }
 
+/// The root widget for the Ironman Training Dashboard application.
+///
+/// This class sets up the MaterialApp, defining the app's title, theme,
+/// and the initial screen.
 class IronmanApp extends StatelessWidget {
+  /// Builds the widget tree for the application.
+  ///
+  /// Configures the app's theme to be dark with red accents, suitable for a
+  /// fitness-oriented application, and sets [DashboardScreen] as the home page.
+  ///
+  /// [context] is the build context for this widget.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -29,11 +39,19 @@ class IronmanApp extends StatelessWidget {
   }
 }
 
+/// The main screen of the application, displaying the user's training dashboard.
+///
+/// This is a stateful widget that fetches and displays data from various services,
+/// including the training plan, Strava activities, and logistics tasks.
 class DashboardScreen extends StatefulWidget {
   @override
   _DashboardScreenState createState() => _DashboardScreenState();
 }
 
+/// The state for the [DashboardScreen].
+///
+/// This class manages the state of the dashboard, including loading data,
+/// processing training information, and handling user interactions.
 class _DashboardScreenState extends State<DashboardScreen> {
   bool isLoading = true;
   
@@ -54,6 +72,11 @@ class _DashboardScreenState extends State<DashboardScreen> {
     _loadData();
   }
 
+  /// Fetches and processes all necessary data for the dashboard.
+  ///
+  /// This method loads settings, fetches the training plan, retrieves Strava
+  /// activities, and gets pending logistics tasks. It then processes this
+  /// data to update the UI.
   Future<void> _loadData() async {
     await _loadSettings(); // Load the "Fresh Start" date
 
@@ -81,6 +104,10 @@ class _DashboardScreenState extends State<DashboardScreen> {
     }
   }
 
+  /// Loads the last reset date from shared preferences.
+  ///
+  /// This date is used to determine the start point for calculating training
+  /// debt.
   Future<void> _loadSettings() async {
     final prefs = await SharedPreferences.getInstance();
     int? timestamp = prefs.getInt('last_reset_timestamp');
@@ -89,6 +116,14 @@ class _DashboardScreenState extends State<DashboardScreen> {
     }
   }
 
+  /// Processes the training plan and actual activities to calculate metrics.
+  ///
+  /// This method calculates the confidence bank, average paces, and training
+  /// debt by comparing the planned workouts with the actual activities from
+  /// Strava.
+  ///
+  /// [plan] is a list of planned workouts.
+  /// [actuals] is a list of actual activities.
   void _processTrainingData(List plan, List actuals) {
     // 1. CONFIDENCE BANK & PREDICTOR DATA
     Map<String, double> bank = {"Swim": 0.0, "Bike": 0.0, "Run": 0.0};
@@ -179,6 +214,9 @@ class _DashboardScreenState extends State<DashboardScreen> {
     });
   }
 
+  /// Marks a logistics task as complete and removes it from the list.
+  ///
+  /// [index] is the index of the task to be completed.
   void _completeLogisticsTask(int index) async {
     LogisticsService ls = LogisticsService();
     await ls.markTaskComplete(logisticsTasks[index]['id']);
@@ -187,6 +225,9 @@ class _DashboardScreenState extends State<DashboardScreen> {
     });
   }
 
+  /// Toggles the status of a workout between 'Complete' and 'Pending'.
+  ///
+  /// [index] is the index of the workout to be toggled.
   void _toggleWorkoutStatus(int index) {
     setState(() {
       var item = upcomingSchedule[index];
@@ -201,6 +242,8 @@ class _DashboardScreenState extends State<DashboardScreen> {
     });
   }
 
+  /// Resets the training debt to zero and saves the current date as the new
+  /// reset date.
   void _resetDebt() async {
     final prefs = await SharedPreferences.getInstance();
     DateTime now = DateTime.now();
@@ -214,6 +257,12 @@ class _DashboardScreenState extends State<DashboardScreen> {
     Navigator.pop(context); 
   }
 
+  /// Builds the main dashboard UI.
+  ///
+  /// This method constructs the user interface for the dashboard, including the
+  /// background image, blur effect, and all the informational cards and lists.
+  ///
+  /// [context] is the build context for this widget.
   @override
   Widget build(BuildContext context) {
     int daysLeft = raceDate.difference(DateTime.now()).inDays;

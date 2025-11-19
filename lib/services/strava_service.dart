@@ -2,12 +2,21 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
+/// A service for interacting with the Strava API.
+///
+/// This class handles the authentication and data fetching from the Strava API,
+/// including refreshing the access token and retrieving recent activities.
 class StravaService {
   // Base URL for Strava API
   final String _authUrl = "https://www.strava.com/oauth/token";
   final String _baseUrl = "https://www.strava.com/api/v3";
 
-  // 1. Get a temporary Access Token using your permanent Refresh Token
+  /// Refreshes the Strava access token using the refresh token.
+  ///
+  /// This method uses the client ID, client secret, and refresh token from the
+  /// `.env` file to obtain a new access token from the Strava API.
+  ///
+  /// Returns the new access token, or `null` if the request fails.
   Future<String?> _getAccessToken() async {
     final String? clientId = dotenv.env['STRAVA_CLIENT_ID'];
     final String? clientSecret = dotenv.env['STRAVA_CLIENT_SECRET'];
@@ -42,7 +51,12 @@ class StravaService {
     }
   }
 
-  // 2. Fetch Activities (Last 30 days or custom range)
+  /// Fetches the user's recent activities from the Strava API.
+  ///
+  /// This method first obtains a valid access token and then requests the last
+  /// 50 activities from the Strava API.
+  ///
+  /// Returns a list of maps, where each map represents a Strava activity.
   Future<List<Map<String, dynamic>>> getActivities() async {
     final accessToken = await _getAccessToken();
     if (accessToken == null) return [];

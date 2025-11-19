@@ -1,5 +1,9 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
+/// A service for managing logistics tasks related to the Ironman race.
+///
+/// This class provides a master list of tasks and methods to retrieve and
+/// manage the status of these tasks using shared preferences.
 class LogisticsService {
   // The Standard Ironman Protocol Checklist
   final List<Map<String, dynamic>> _masterList = [
@@ -14,6 +18,14 @@ class LogisticsService {
     {'id': 'checkin', 'title': 'Athlete Check-In', 'weeksOut': 0},
   ];
 
+  /// Retrieves a list of pending logistics tasks.
+  ///
+  /// This method filters the master list of tasks to only include those that
+  /// have not been marked as complete. The list is then sorted by urgency.
+  ///
+  /// [weeksUntilRace] is the number of weeks remaining until the race.
+  ///
+  /// Returns a list of maps, where each map represents a pending task.
   Future<List<Map<String, dynamic>>> getPendingTasks(int weeksUntilRace) async {
     final prefs = await SharedPreferences.getInstance();
     List<Map<String, dynamic>> pending = [];
@@ -38,6 +50,11 @@ class LogisticsService {
     return pending;
   }
 
+  /// Marks a logistics task as complete.
+  ///
+  /// This method saves the completion status of a task to shared preferences.
+  ///
+  /// [id] is the ID of the task to be marked as complete.
   Future<void> markTaskComplete(String id) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('task_$id', true);

@@ -1,10 +1,17 @@
 import 'package:http/http.dart' as http;
 import 'package:icalendar_parser/icalendar_parser.dart';
 
+/// A service for fetching and parsing the training plan from an iCalendar URL.
 class PlanService {
   // Your Intervals.icu URL
   final String calendarUrl = "https://intervals.icu/api/cal/i129550/96b17ae6fbd3b415.ics";
 
+  /// Fetches the training plan from the iCalendar URL and parses it.
+  ///
+  /// This method makes an HTTP GET request to the `calendarUrl`, and if
+  /// successful, it parses the iCalendar data into a list of workouts.
+  ///
+  /// Returns a list of maps, where each map represents a planned workout.
   Future<List<Map<String, dynamic>>> fetchPlan() async {
     try {
       final response = await http.get(Uri.parse(calendarUrl));
@@ -63,6 +70,11 @@ class PlanService {
 
   // --- HELPERS ---
 
+  /// Determines the workout type from the summary string.
+  ///
+  /// [summary] is the summary of the iCalendar event.
+  ///
+  /// Returns a string representing the workout type.
   String _determineType(String summary) {
     final s = summary.toLowerCase();
     if (s.contains('swim')) return 'Swim';
@@ -71,7 +83,14 @@ class PlanService {
     return 'Rest';
   }
 
-  // FIX: Custom Parser for YYYYMMDD format
+  /// Parses a date from an iCalendar date string.
+  ///
+  /// This method handles various date formats that may be present in the
+  /// iCalendar data.
+  ///
+  /// [input] is the date string to be parsed.
+  ///
+  /// Returns a [DateTime] object.
   DateTime _parseIcsDate(dynamic input) {
     if (input == null) return DateTime.now();
     
@@ -103,7 +122,14 @@ class PlanService {
     return DateTime.now(); 
   }
 
-  // FIX: Extract duration from "Bike: 1h Aerobic" or "Run: 45m"
+  /// Parses the duration of a workout from a string.
+  ///
+  /// This method uses regular expressions to extract the duration in minutes
+  /// from various text formats.
+  ///
+  /// [text] is the string to be parsed.
+  ///
+  /// Returns the duration in minutes.
   int _parseDurationFromText(String text) {
     if (text.isEmpty) return 0;
 
