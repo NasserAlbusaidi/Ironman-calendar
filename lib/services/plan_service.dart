@@ -117,7 +117,7 @@ class PlanService {
         
         return DateTime.parse("$y-$m-$d");
       } catch (e) {
-        _logger.warning("Date Parse Error ($input) -> Cleaned: $clean", e);
+        _logger.warning("Date Parse Error ($input) -> Cleaned: $clean. Exception: $e");
       }
     }
     
