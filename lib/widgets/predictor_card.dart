@@ -1,10 +1,22 @@
 import 'package:flutter/material.dart';
 
+/// A widget that displays a race day simulation and predicted finish time.
+///
+/// This card uses the average paces from training to project the finish
+/// times for the swim, bike, and run segments of the race, as well as the
+/// overall finish time.
 class PredictorCard extends StatelessWidget {
+  /// A map of average paces for each discipline.
+  ///
+  /// The keys are "Swim", "Bike", and "Run", and the values are the paces
+  /// in seconds per meter.
   final Map<String, double> paces; // Seconds per Meter
 
   const PredictorCard({Key? key, required this.paces}) : super(key: key);
 
+  /// Builds the predictor card widget.
+  ///
+  /// [context] is the build context for this widget.
   @override
   Widget build(BuildContext context) {
     // Ironman Distances in Meters
@@ -61,6 +73,7 @@ class PredictorCard extends StatelessWidget {
     );
   }
 
+  /// Builds a widget to display a single split time and pace.
   Widget _split(String label, int seconds, double pace) {
     return Column(
       children: [
@@ -73,6 +86,12 @@ class PredictorCard extends StatelessWidget {
     );
   }
 
+  /// Formats the pace for a given discipline.
+  ///
+  /// [label] is the discipline ("SWIM", "BIKE", or "RUN").
+  /// [pace] is the pace in seconds per meter.
+  ///
+  /// Returns a formatted string representing the pace.
   String _formatPace(String label, double pace) {
     // Pace is in seconds per meter
     if (pace <= 0) return "-";
@@ -96,12 +115,22 @@ class PredictorCard extends StatelessWidget {
     return "-";
   }
 
+  /// Formats the total finish time.
+  ///
+  /// [totalSeconds] is the total time in seconds.
+  ///
+  /// Returns a formatted string in the format "Xh XXm".
   String _formatTotal(int totalSeconds) {
     int h = totalSeconds ~/ 3600;
     int m = (totalSeconds % 3600) ~/ 60;
     return "${h}h ${m.toString().padLeft(2, '0')}m";
   }
 
+  /// Formats a split time.
+  ///
+  /// [totalSeconds] is the total time in seconds.
+  ///
+  /// Returns a formatted string in the format "X:XX".
   String _formatSplit(int totalSeconds) {
     int h = totalSeconds ~/ 3600;
     int m = (totalSeconds % 3600) ~/ 60;

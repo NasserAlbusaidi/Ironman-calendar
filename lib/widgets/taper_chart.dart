@@ -2,11 +2,19 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
+/// A widget that displays a line chart of the training volume over time.
+///
+/// This chart visualizes the build and taper phases of the training plan,
+/// showing the weekly volume in hours.
 class TaperChart extends StatelessWidget {
+  /// The schedule of planned workouts.
   final List<Map<String, dynamic>> schedule;
 
   const TaperChart({Key? key, required this.schedule}) : super(key: key);
 
+  /// Builds the taper chart widget.
+  ///
+  /// [context] is the build context for this widget.
   @override
   Widget build(BuildContext context) {
     // 1. Group minutes by Week
@@ -93,6 +101,9 @@ class TaperChart extends StatelessWidget {
     );
   }
 
+  /// Calculates the index of the current week in the training plan.
+  ///
+  /// Returns the week index as a double.
   double _getCurrentWeekIndex() {
     if (schedule.isEmpty) return 0;
     DateTime start = schedule.first['date'];
@@ -100,6 +111,10 @@ class TaperChart extends StatelessWidget {
     return (daysDiff / 7).clamp(0, 20).toDouble();
   }
 
+  /// Calculates the total weekly training volume from the schedule.
+  ///
+  /// Returns a list of doubles, where each value is the total planned
+  /// training hours for a week.
   List<double> _calculateWeeklyVolume() {
     if (schedule.isEmpty) return [];
     
