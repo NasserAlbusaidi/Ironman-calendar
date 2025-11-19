@@ -1,12 +1,15 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:logging/logging.dart';
+import 'logging_service.dart';
 
 /// A service for interacting with the Strava API.
 ///
 /// This class handles the authentication and data fetching from the Strava API,
 /// including refreshing the access token and retrieving recent activities.
 class StravaService {
+  final Logger _logger = LoggingService.logger;
   // Base URL for Strava API
   final String _authUrl = "https://www.strava.com/oauth/token";
   final String _baseUrl = "https://www.strava.com/api/v3";
@@ -23,7 +26,7 @@ class StravaService {
     final String? refreshToken = dotenv.env['STRAVA_REFRESH_TOKEN'];
 
     if (clientId == null || clientSecret == null || refreshToken == null) {
-      print("STRAVA ERROR: Missing .env secrets");
+      _logger.severe("STRAVA ERROR: Missing .env secrets");
       return null;
     }
 
@@ -42,11 +45,11 @@ class StravaService {
         final data = json.decode(response.body);
         return data['access_token'];
       } else {
-        print("Failed to refresh token: ${response.body}");
+        _logger.severe("Failed to refresh token: ${response.body}");
         return null;
       }
     } catch (e) {
-      print("Error refreshing token: $e");
+      _logger.severe("Error refreshing token: $e");
       return null;
     }
   }
@@ -84,11 +87,11 @@ class StravaService {
           };
         }).toList();
       } else {
-        print("Strava API Error: ${response.statusCode}");
+        _logger.severe("Strava API Error: ${response.statusCode}");
         return [];
       }
     } catch (e) {
-      print("Error fetching activities: $e");
+      _logger.severe("Error fetching activities: $e");
       return [];
     }
   }

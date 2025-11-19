@@ -6,9 +6,13 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'services/plan_service.dart';
 import 'services/strava_service.dart';
 import 'services/logistics_service.dart';
+import 'services/logging_service.dart';
 import 'widgets/taper_chart.dart';
 import 'widgets/predictor_card.dart';
+
 Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  LoggingService.setup();
   await dotenv.load(fileName: ".env");
   runApp(IronmanApp());
 }

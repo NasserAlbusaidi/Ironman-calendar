@@ -1,8 +1,11 @@
 import 'package:http/http.dart' as http;
 import 'package:icalendar_parser/icalendar_parser.dart';
+import 'package:logging/logging.dart';
+import 'logging_service.dart';
 
 /// A service for fetching and parsing the training plan from an iCalendar URL.
 class PlanService {
+  final Logger _logger = LoggingService.logger;
   // Your Intervals.icu URL
   final String calendarUrl = "https://intervals.icu/api/cal/i129550/96b17ae6fbd3b415.ics";
 
@@ -19,11 +22,11 @@ class PlanService {
       if (response.statusCode == 200) {
         return _parseICS(response.body);
       } else {
-        print("Failed to load calendar: ${response.statusCode}");
+        _logger.severe("Failed to load calendar: ${response.statusCode}");
         return [];
       }
     } catch (e) {
-      print("Error fetching plan: $e");
+      _logger.severe("Error fetching plan: $e");
       return [];
     }
   }
@@ -114,7 +117,7 @@ class PlanService {
         
         return DateTime.parse("$y-$m-$d");
       } catch (e) {
-        print("Date Parse Error ($input) -> Cleaned: $clean");
+        _logger.warning("Date Parse Error ($input) -> Cleaned: $clean. Exception: $e");
       }
     }
     
